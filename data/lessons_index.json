@@ -79,6 +79,36 @@
         "title": "Les nombres 1–10",
         "desc": "Compter en français",
         "type": "débutant"
+      },
+      {
+        "id": "K-colors",
+        "title": "Couleurs de base",
+        "desc": "Apprendre les couleurs",
+        "type": "débutant"
+      },
+      {
+        "id": "K-numbers",
+        "title": "Nombres 1 à 10",
+        "desc": "Compter jusqu’à dix",
+        "type": "débutant"
+      },
+      {
+        "id": "K-greetings",
+        "title": "Salutations simples",
+        "desc": "Bonjour, au revoir",
+        "type": "débutant"
+      },
+      {
+        "id": "K-animals",
+        "title": "Animaux familiers",
+        "desc": "Chats, chiens, etc.",
+        "type": "débutant"
+      },
+      {
+        "id": "K-shapes",
+        "title": "Formes géométriques",
+        "desc": "Carré, cercle, triangle",
+        "type": "débutant"
       }
     ],
     "1": [
@@ -92,6 +122,36 @@
         "id": "1-food-1",
         "title": "Nourriture",
         "desc": "Mots pour la cuisine",
+        "type": "débutant"
+      },
+      {
+        "id": "1-family",
+        "title": "Ma famille",
+        "desc": "Maman, papa, frère, sœur",
+        "type": "débutant"
+      },
+      {
+        "id": "1-food",
+        "title": "Manger",
+        "desc": "Fruits et légumes",
+        "type": "débutant"
+      },
+      {
+        "id": "1-school",
+        "title": "À l’école",
+        "desc": "Objets de classe",
+        "type": "débutant"
+      },
+      {
+        "id": "1-days",
+        "title": "Jours de la semaine",
+        "desc": "Lundi à dimanche",
+        "type": "débutant"
+      },
+      {
+        "id": "1-weather",
+        "title": "Le temps",
+        "desc": "Soleil, pluie, neige",
         "type": "débutant"
       }
     ],
@@ -107,6 +167,36 @@
         "title": "Les animaux",
         "desc": "Animaux domestiques",
         "type": "débutant"
+      },
+      {
+        "id": "2-hobbies",
+        "title": "Mes loisirs",
+        "desc": "Sports et jeux",
+        "type": "débutant"
+      },
+      {
+        "id": "2-clothes",
+        "title": "Vêtements",
+        "desc": "T-shirts, pantalons",
+        "type": "débutant"
+      },
+      {
+        "id": "2-animals",
+        "title": "Animaux sauvages",
+        "desc": "Lions, tigres, etc.",
+        "type": "débutant"
+      },
+      {
+        "id": "2-places",
+        "title": "Lieux communs",
+        "desc": "Parc, école, maison",
+        "type": "débutant"
+      },
+      {
+        "id": "2-transport",
+        "title": "Moyens de transport",
+        "desc": "Bus, voiture, vélo",
+        "type": "débutant"
       }
     ],
     "3": [
@@ -120,6 +210,36 @@
         "id": "3-days-1",
         "title": "Jours & Mois",
         "desc": "Calendrier",
+        "type": "débutant"
+      },
+      {
+        "id": "3-food",
+        "title": "Repas et boissons",
+        "desc": "Petit déjeuner, déjeuner",
+        "type": "débutant"
+      },
+      {
+        "id": "3-numbers",
+        "title": "Nombres 11 à 20",
+        "desc": "Compter plus loin",
+        "type": "débutant"
+      },
+      {
+        "id": "3-days-months",
+        "title": "Jours & Mois",
+        "desc": "Calendrier complet",
+        "type": "débutant"
+      },
+      {
+        "id": "3-body",
+        "title": "Le corps humain",
+        "desc": "Tête, bras, jambes",
+        "type": "débutant"
+      },
+      {
+        "id": "3-emotions",
+        "title": "Sentiments",
+        "desc": "Heureux, triste, en colère",
         "type": "débutant"
       }
     ],
@@ -135,6 +255,36 @@
         "title": "Le corps",
         "desc": "Parties du corps",
         "type": "intermédiaire"
+      },
+      {
+        "id": "4-verbs-er",
+        "title": "Verbes en -er",
+        "desc": "Présent de l’indicatif",
+        "type": "intermédiaire"
+      },
+      {
+        "id": "4-prepositions",
+        "title": "Prépositions",
+        "desc": "À, dans, sur, sous",
+        "type": "intermédiaire"
+      },
+      {
+        "id": "4-adjectives",
+        "title": "Adjectifs courants",
+        "desc": "Grand, petit, beau",
+        "type": "intermédiaire"
+      },
+      {
+        "id": "4-school-subjects",
+        "title": "Matières scolaires",
+        "desc": "Maths, français, sciences",
+        "type": "intermédiaire"
+      },
+      {
+        "id": "4-time",
+        "title": "Dire l’heure",
+        "desc": "Heure exacte et approximative",
+        "type": "intermédiaire"
       }
     ],
     "5": [
@@ -148,6 +298,36 @@
         "id": "5-weather-1",
         "title": "Météo",
         "desc": "Parler du temps",
+        "type": "intermédiaire"
+      },
+      {
+        "id": "5-travel",
+        "title": "Voyager",
+        "desc": "À l’aéroport, à la gare",
+        "type": "intermédiaire"
+      },
+      {
+        "id": "5-hobbies",
+        "title": "Passions et loisirs",
+        "desc": "Musique, sport, lecture",
+        "type": "intermédiaire"
+      },
+      {
+        "id": "5-food-advanced",
+        "title": "Cuisine française",
+        "desc": "Recettes simples",
+        "type": "intermédiaire"
+      },
+      {
+        "id": "5-weather",
+        "title": "Le climat",
+        "desc": "Saisons, météo",
+        "type": "intermédiaire"
+      },
+      {
+        "id": "5-environment",
+        "title": "L’environnement",
+        "desc": "Animaux et plantes",
         "type": "intermédiaire"
       }
     ],
@@ -163,6 +343,36 @@
         "title": "Être & Avoir",
         "desc": "Verbes essentiels",
         "type": "intermédiaire"
+      },
+      {
+        "id": "6-grammar-basics",
+        "title": "Articles & genres",
+        "desc": "le, la, les, un, une",
+        "type": "intermédiaire"
+      },
+      {
+        "id": "6-verbs-etre-avoir",
+        "title": "Être & Avoir",
+        "desc": "Verbes essentiels",
+        "type": "intermédiaire"
+      },
+      {
+        "id": "6-adverbs",
+        "title": "Adverbes courants",
+        "desc": "Souvent, toujours, jamais",
+        "type": "intermédiaire"
+      },
+      {
+        "id": "6-conjunctions",
+        "title": "Conjonctions",
+        "desc": "Et, mais, ou",
+        "type": "intermédiaire"
+      },
+      {
+        "id": "6-family-advanced",
+        "title": "Parler de la famille",
+        "desc": "Descriptions détaillées",
+        "type": "intermédiaire"
       }
     ],
     "7": [
@@ -176,6 +386,36 @@
         "id": "7-sports-1",
         "title": "Les sports",
         "desc": "Vocabulaire",
+        "type": "intermédiaire"
+      },
+      {
+        "id": "7-passe-compose-intro",
+        "title": "Passé composé (intro)",
+        "desc": "avec avoir",
+        "type": "intermédiaire"
+      },
+      {
+        "id": "7-passe-compose-etre",
+        "title": "Passé composé avec être",
+        "desc": "Verbes de mouvement",
+        "type": "intermédiaire"
+      },
+      {
+        "id": "7-sports",
+        "title": "Les sports",
+        "desc": "Vocabulaire",
+        "type": "intermédiaire"
+      },
+      {
+        "id": "7-travel",
+        "title": "Voyager en France",
+        "desc": "Phrases utiles",
+        "type": "intermédiaire"
+      },
+      {
+        "id": "7-technology",
+        "title": "Technologie",
+        "desc": "Mots du quotidien",
         "type": "intermédiaire"
       }
     ],
@@ -191,6 +431,36 @@
         "title": "Voyage",
         "desc": "À l’aéroport",
         "type": "intermédiaire"
+      },
+      {
+        "id": "8-futur-proche",
+        "title": "Futur proche",
+        "desc": "aller + infinitif",
+        "type": "intermédiaire"
+      },
+      {
+        "id": "8-weather-advanced",
+        "title": "Parler du temps",
+        "desc": "Prévisions météo",
+        "type": "intermédiaire"
+      },
+      {
+        "id": "8-culture",
+        "title": "Culture française",
+        "desc": "Fêtes et traditions",
+        "type": "intermédiaire"
+      },
+      {
+        "id": "8-environment-advanced",
+        "title": "L’écologie",
+        "desc": "Protection de la nature",
+        "type": "intermédiaire"
+      },
+      {
+        "id": "8-media",
+        "title": "Les médias",
+        "desc": "Vocabulaire et opinions",
+        "type": "intermédiaire"
       }
     ],
     "9": [
@@ -204,6 +474,36 @@
         "id": "9-media-1",
         "title": "Médias",
         "desc": "Opinions et débats",
+        "type": "avancé"
+      },
+      {
+        "id": "9-imparfait-vs-passe",
+        "title": "Imparfait vs Passé composé",
+        "desc": "Contrastes",
+        "type": "avancé"
+      },
+      {
+        "id": "9-subjonctif-intro",
+        "title": "Introduction au subjonctif",
+        "desc": "Formes et usages",
+        "type": "avancé"
+      },
+      {
+        "id": "9-arts",
+        "title": "Arts et musique",
+        "desc": "Vocabulaire culturel",
+        "type": "avancé"
+      },
+      {
+        "id": "9-politique",
+        "title": "Politique française",
+        "desc": "Système et partis",
+        "type": "avancé"
+      },
+      {
+        "id": "9-philosophie",
+        "title": "Philosophie française",
+        "desc": "Idées clés",
         "type": "avancé"
       }
     ],
@@ -219,6 +519,36 @@
         "title": "Santé",
         "desc": "Chez le médecin",
         "type": "avancé"
+      },
+      {
+        "id": "10-conditionnel-intro",
+        "title": "Conditionnel (intro)",
+        "desc": "Je voudrais...",
+        "type": "avancé"
+      },
+      {
+        "id": "10-litterature",
+        "title": "Littérature française",
+        "desc": "Auteurs classiques",
+        "type": "avancé"
+      },
+      {
+        "id": "10-sciences",
+        "title": "Vocabulaire scientifique",
+        "desc": "Biologie, chimie",
+        "type": "avancé"
+      },
+      {
+        "id": "10-economie",
+        "title": "Économie de base",
+        "desc": "Termes simples",
+        "type": "avancé"
+      },
+      {
+        "id": "10-cinema",
+        "title": "Cinéma français",
+        "desc": "Films célèbres",
+        "type": "avancé"
       }
     ],
     "11": [
@@ -233,6 +563,36 @@
         "title": "Culture francophone",
         "desc": "Géographie & culture",
         "type": "avancé"
+      },
+      {
+        "id": "11-subjonctif-avance",
+        "title": "Subjonctif avancé",
+        "desc": "Cas complexes",
+        "type": "avancé"
+      },
+      {
+        "id": "11-culture-francophone",
+        "title": "Culture francophone",
+        "desc": "Diversité",
+        "type": "avancé"
+      },
+      {
+        "id": "11-politique-avance",
+        "title": "Politique et société",
+        "desc": "Débats actuels",
+        "type": "avancé"
+      },
+      {
+        "id": "11-histoire",
+        "title": "Histoire de France",
+        "desc": "Évènements majeurs",
+        "type": "avancé"
+      },
+      {
+        "id": "11-psychologie",
+        "title": "Psychologie",
+        "desc": "Concepts de base",
+        "type": "avancé"
       }
     ],
     "12": [
@@ -246,6 +606,36 @@
         "id": "12-oral-1",
         "title": "Expression orale",
         "desc": "Présentations",
+        "type": "avancé"
+      },
+      {
+        "id": "12-litterature-avance",
+        "title": "Littérature avancée",
+        "desc": "Œuvres majeures",
+        "type": "avancé"
+      },
+      {
+        "id": "12-expression-orale",
+        "title": "Expression orale",
+        "desc": "Présentations et débats",
+        "type": "avancé"
+      },
+      {
+        "id": "12-philosophie-avance",
+        "title": "Philosophie avancée",
+        "desc": "Théories et idées",
+        "type": "avancé"
+      },
+      {
+        "id": "12-sciences-avance",
+        "title": "Sciences avancées",
+        "desc": "Physique, mathématiques",
+        "type": "avancé"
+      },
+      {
+        "id": "12-societe",
+        "title": "Société et culture",
+        "desc": "Analyse critique",
         "type": "avancé"
       }
     ]
