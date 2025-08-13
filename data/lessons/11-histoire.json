@@ -1,0 +1,21 @@
+{
+  "id": "11-histoire",
+  "title": "Histoire de France",
+  "activities": [
+    {
+      "type": "match",
+      "prompt": "Associez les événements historiques avec leur date.",
+      "items": [
+        {"left": "Révolution française", "right": "1789"},
+        {"left": "Débarquement en Normandie", "right": "1944"},
+        {"left": "Mai 68", "right": "1968"}
+      ]
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "Complétez avec l'événement.",
+      "sentence": "La ___ a commencé en 1789.",
+      "answer": "Révolution française"
+    }
+  ]
+}

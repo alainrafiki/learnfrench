@@ -1,0 +1,21 @@
+{
+  "id": "12-philosophie-avance",
+  "title": "Philosophie avancée",
+  "activities": [
+    {
+      "type": "match",
+      "prompt": "Associez les théories philosophiques avec leur auteur.",
+      "items": [
+        {"left": "Existentialisme", "right": "Sartre"},
+        {"left": "Absurdism", "right": "Camus"},
+        {"left": "Structuralisme", "right": "Lévi-Strauss"}
+      ]
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "Complétez avec la théorie.",
+      "sentence": "L'existentialisme est une philosophie de ___.",
+      "answer": "Sartre"
+    }
+  ]
+}

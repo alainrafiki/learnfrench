@@ -1,0 +1,21 @@
+{
+  "id": "5-environment",
+  "title": "L’environnement",
+  "activities": [
+    {
+      "type": "match",
+      "prompt": "Associez les éléments de l’environnement avec leur traduction.",
+      "items": [
+        {"left": "Tree", "right": "Arbre"},
+        {"left": "Flower", "right": "Fleur"},
+        {"left": "River", "right": "Rivière"}
+      ]
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "Complétez avec le bon mot.",
+      "sentence": "La ___ coule dans la vallée.",
+      "answer": "rivière"
+    }
+  ]
+}

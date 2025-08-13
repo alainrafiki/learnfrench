@@ -1,0 +1,21 @@
+{
+  "id": "7-technology",
+  "title": "Technologie",
+  "activities": [
+    {
+      "type": "match",
+      "prompt": "Associez les mots de la technologie avec leur traduction.",
+      "items": [
+        {"left": "Ordinateur", "right": "Computer"},
+        {"left": "Téléphone", "right": "Phone"},
+        {"left": "Internet", "right": "Internet"}
+      ]
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "Complétez avec le bon mot.",
+      "sentence": "J'envoie un message avec mon ___.",
+      "answer": "téléphone"
+    }
+  ]
+}

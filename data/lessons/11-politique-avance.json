@@ -1,0 +1,21 @@
+{
+  "id": "11-politique-avance",
+  "title": "Politique et société",
+  "activities": [
+    {
+      "type": "match",
+      "prompt": "Associez les concepts politiques avec leur traduction.",
+      "items": [
+        {"left": "Démocratie", "right": "Democracy"},
+        {"left": "Liberté", "right": "Freedom"},
+        {"left": "Égalité", "right": "Equality"}
+      ]
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "Complétez avec le bon concept.",
+      "sentence": "La ___ est un droit fondamental.",
+      "answer": "liberté"
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "id": "K-animals",
+  "title": "Animaux familiers",
+  "activities": [
+    {
+      "type": "match",
+      "prompt": "Associez les animaux avec leur nom en français.",
+      "items": [
+        {"left": "Cat", "right": "Chat"},
+        {"left": "Dog", "right": "Chien"},
+        {"left": "Rabbit", "right": "Lapin"}
+      ]
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "Complétez avec le bon animal.",
+      "sentence": "Le ___ aime les carottes.",
+      "answer": "lapin"
+    }
+  ]
+}

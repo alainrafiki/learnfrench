@@ -1,0 +1,21 @@
+{
+  "id": "10-conditionnel-intro",
+  "title": "Conditionnel (intro)",
+  "activities": [
+    {
+      "type": "match",
+      "prompt": "Associez les phrases au conditionnel avec leur traduction.",
+      "items": [
+        {"left": "Je voudrais", "right": "I would like"},
+        {"left": "Tu aimerais", "right": "You would like"},
+        {"left": "Nous irions", "right": "We would go"}
+      ]
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "Complétez avec le verbe au conditionnel.",
+      "sentence": "Si j'avais le temps, je ___ (voyager).",
+      "answer": "voyagerais"
+    }
+  ]
+}

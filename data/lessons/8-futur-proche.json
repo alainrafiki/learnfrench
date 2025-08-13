@@ -1,0 +1,21 @@
+{
+  "id": "8-futur-proche",
+  "title": "Futur proche",
+  "activities": [
+    {
+      "type": "match",
+      "prompt": "Associez les phrases au futur proche avec leur traduction.",
+      "items": [
+        {"left": "Je vais manger", "right": "I am going to eat"},
+        {"left": "Tu vas jouer", "right": "You are going to play"},
+        {"left": "Nous allons partir", "right": "We are going to leave"}
+      ]
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "Complétez avec la bonne forme du verbe aller.",
+      "sentence": "Demain, il ___ travailler.",
+      "answer": "va"
+    }
+  ]
+}

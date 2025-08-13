@@ -1,0 +1,21 @@
+{
+  "id": "12-litterature-avance",
+  "title": "Littérature avancée",
+  "activities": [
+    {
+      "type": "match",
+      "prompt": "Associez les œuvres majeures avec leur auteur.",
+      "items": [
+        {"left": "Madame Bovary", "right": "Flaubert"},
+        {"left": "Le Rouge et le Noir", "right": "Stendhal"},
+        {"left": "Germinal", "right": "Zola"}
+      ]
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "Complétez avec l'auteur.",
+      "sentence": "Germinal est un roman de ___.",
+      "answer": "Zola"
+    }
+  ]
+}

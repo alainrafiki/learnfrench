@@ -1,0 +1,21 @@
+{
+  "id": "10-economie",
+  "title": "Économie de base",
+  "activities": [
+    {
+      "type": "match",
+      "prompt": "Associez les mots de l'économie avec leur traduction.",
+      "items": [
+        {"left": "Argent", "right": "Money"},
+        {"left": "Banque", "right": "Bank"},
+        {"left": "Prix", "right": "Price"}
+      ]
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "Complétez avec le bon mot.",
+      "sentence": "On dépose l'argent à la ___.",
+      "answer": "banque"
+    }
+  ]
+}

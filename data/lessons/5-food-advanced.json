@@ -1,0 +1,21 @@
+{
+  "id": "5-food-advanced",
+  "title": "Cuisine française",
+  "activities": [
+    {
+      "type": "match",
+      "prompt": "Associez les plats français avec leur traduction.",
+      "items": [
+        {"left": "Baguette", "right": "Baguette"},
+        {"left": "Cheese", "right": "Fromage"},
+        {"left": "Soup", "right": "Soupe"}
+      ]
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "Complétez avec le bon plat.",
+      "sentence": "La ___ est un pain français.",
+      "answer": "baguette"
+    }
+  ]
+}

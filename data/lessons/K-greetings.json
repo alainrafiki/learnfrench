@@ -1,0 +1,21 @@
+{
+  "id": "K-greetings",
+  "title": "Salutations simples",
+  "activities": [
+    {
+      "type": "match",
+      "prompt": "Associez les mots de salutation avec leur traduction.",
+      "items": [
+        {"left": "Bonjour", "right": "Hello"},
+        {"left": "Bonsoir", "right": "Good evening"},
+        {"left": "Salut", "right": "Hi"}
+      ]
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "Complétez avec la bonne salutation.",
+      "sentence": "Le matin, on dit ___.",
+      "answer": "bonjour"
+    }
+  ]
+}

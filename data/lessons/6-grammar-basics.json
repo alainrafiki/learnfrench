@@ -1,0 +1,21 @@
+{
+  "id": "6-grammar-basics",
+  "title": "Articles & genres",
+  "activities": [
+    {
+      "type": "match",
+      "prompt": "Associez les articles avec le bon nom.",
+      "items": [
+        {"left": "le", "right": "livre"},
+        {"left": "la", "right": "table"},
+        {"left": "les", "right": "enfants"}
+      ]
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "Complétez avec l'article correct.",
+      "sentence": "___ pomme est rouge.",
+      "answer": "La"
+    }
+  ]
+}

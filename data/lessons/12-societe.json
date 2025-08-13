@@ -1,0 +1,21 @@
+{
+  "id": "12-societe",
+  "title": "Société et culture",
+  "activities": [
+    {
+      "type": "match",
+      "prompt": "Associez les concepts sociaux avec leur description.",
+      "items": [
+        {"left": "Culture", "right": "Ensemble des traditions"},
+        {"left": "Société", "right": "Groupe d'individus"},
+        {"left": "Valeur", "right": "Principe moral"}
+      ]
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "Complétez avec le concept.",
+      "sentence": "La ___ regroupe les coutumes d'un peuple.",
+      "answer": "culture"
+    }
+  ]
+}

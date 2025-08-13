@@ -1,0 +1,21 @@
+{
+  "id": "3-food",
+  "title": "Repas et boissons",
+  "activities": [
+    {
+      "type": "match",
+      "prompt": "Associez les repas/boissons avec leur nom en français.",
+      "items": [
+        {"left": "Breakfast", "right": "Petit déjeuner"},
+        {"left": "Lunch", "right": "Déjeuner"},
+        {"left": "Water", "right": "Eau"}
+      ]
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "Complétez avec le bon repas.",
+      "sentence": "Le matin, je prends le ___.",
+      "answer": "petit déjeuner"
+    }
+  ]
+}

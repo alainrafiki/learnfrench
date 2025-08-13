@@ -1,0 +1,21 @@
+{
+  "id": "9-philosophie",
+  "title": "Philosophie française",
+  "activities": [
+    {
+      "type": "match",
+      "prompt": "Associez les philosophes avec leur œuvre.",
+      "items": [
+        {"left": "Descartes", "right": "Discours de la méthode"},
+        {"left": "Rousseau", "right": "Du contrat social"},
+        {"left": "Sartre", "right": "L'Être et le Néant"}
+      ]
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "Complétez avec le philosophe.",
+      "sentence": "Je pense, donc je suis est une phrase de ___.",
+      "answer": "Descartes"
+    }
+  ]
+}

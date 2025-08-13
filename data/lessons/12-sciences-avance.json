@@ -1,0 +1,21 @@
+{
+  "id": "12-sciences-avance",
+  "title": "Sciences avancées",
+  "activities": [
+    {
+      "type": "match",
+      "prompt": "Associez les domaines scientifiques avec leur description.",
+      "items": [
+        {"left": "Physique", "right": "Étude de la matière et de l'énergie"},
+        {"left": "Mathématiques", "right": "Science des nombres"},
+        {"left": "Chimie", "right": "Science des substances"}
+      ]
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "Complétez avec la science.",
+      "sentence": "La ___ étudie les équations et les nombres.",
+      "answer": "mathématiques"
+    }
+  ]
+}

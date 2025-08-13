@@ -1,0 +1,21 @@
+{
+  "id": "6-adverbs",
+  "title": "Adverbes courants",
+  "activities": [
+    {
+      "type": "match",
+      "prompt": "Associez les adverbes avec leur traduction.",
+      "items": [
+        {"left": "Souvent", "right": "Often"},
+        {"left": "Toujours", "right": "Always"},
+        {"left": "Jamais", "right": "Never"}
+      ]
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "Complétez avec le bon adverbe.",
+      "sentence": "Je mange ___ des légumes (souvent).",
+      "answer": "souvent"
+    }
+  ]
+}

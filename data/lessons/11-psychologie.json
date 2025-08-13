@@ -1,0 +1,21 @@
+{
+  "id": "11-psychologie",
+  "title": "Psychologie",
+  "activities": [
+    {
+      "type": "match",
+      "prompt": "Associez les concepts de la psychologie avec leur traduction.",
+      "items": [
+        {"left": "Mémoire", "right": "Memory"},
+        {"left": "Émotion", "right": "Emotion"},
+        {"left": "Motivation", "right": "Motivation"}
+      ]
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "Complétez avec le bon concept.",
+      "sentence": "La ___ est importante pour apprendre.",
+      "answer": "mémoire"
+    }
+  ]
+}

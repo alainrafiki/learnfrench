@@ -1,0 +1,21 @@
+{
+  "id": "4-prepositions",
+  "title": "Prépositions",
+  "activities": [
+    {
+      "type": "match",
+      "prompt": "Associez les prépositions avec leur traduction.",
+      "items": [
+        {"left": "Sur", "right": "On"},
+        {"left": "Sous", "right": "Under"},
+        {"left": "Dans", "right": "In"}
+      ]
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "Complétez avec la bonne préposition.",
+      "sentence": "Le chat est ___ la table.",
+      "answer": "sous"
+    }
+  ]
+}

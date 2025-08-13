@@ -1,0 +1,21 @@
+{
+  "id": "9-arts",
+  "title": "Arts et musique",
+  "activities": [
+    {
+      "type": "match",
+      "prompt": "Associez les arts avec leur traduction.",
+      "items": [
+        {"left": "Peinture", "right": "Painting"},
+        {"left": "Musique", "right": "Music"},
+        {"left": "Danse", "right": "Dance"}
+      ]
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "Complétez avec l'art.",
+      "sentence": "J'aime écouter de la ___.",
+      "answer": "musique"
+    }
+  ]
+}

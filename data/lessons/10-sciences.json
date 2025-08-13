@@ -1,0 +1,21 @@
+{
+  "id": "10-sciences",
+  "title": "Vocabulaire scientifique",
+  "activities": [
+    {
+      "type": "match",
+      "prompt": "Associez les mots scientifiques avec leur traduction.",
+      "items": [
+        {"left": "Biologie", "right": "Biology"},
+        {"left": "Chimie", "right": "Chemistry"},
+        {"left": "Physique", "right": "Physics"}
+      ]
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "Complétez avec la bonne science.",
+      "sentence": "La ___ étudie les êtres vivants.",
+      "answer": "biologie"
+    }
+  ]
+}

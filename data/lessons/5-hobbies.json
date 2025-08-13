@@ -1,0 +1,21 @@
+{
+  "id": "5-hobbies",
+  "title": "Passions et loisirs",
+  "activities": [
+    {
+      "type": "match",
+      "prompt": "Associez les loisirs avec leur traduction.",
+      "items": [
+        {"left": "Music", "right": "Musique"},
+        {"left": "Sport", "right": "Sport"},
+        {"left": "Reading", "right": "Lecture"}
+      ]
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "Complétez avec le bon loisir.",
+      "sentence": "Ma passion est la ___.",
+      "answer": "musique"
+    }
+  ]
+}

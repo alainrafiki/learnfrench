@@ -1,0 +1,21 @@
+{
+  "id": "4-adjectives",
+  "title": "Adjectifs courants",
+  "activities": [
+    {
+      "type": "match",
+      "prompt": "Associez les adjectifs avec leur traduction.",
+      "items": [
+        {"left": "Grand", "right": "Tall"},
+        {"left": "Petit", "right": "Small"},
+        {"left": "Beau", "right": "Beautiful"}
+      ]
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "Complétez avec le bon adjectif.",
+      "sentence": "La maison est très ___.",
+      "answer": "grande"
+    }
+  ]
+}

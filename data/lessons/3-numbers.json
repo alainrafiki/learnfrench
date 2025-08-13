@@ -1,0 +1,20 @@
+{
+  "id": "3-numbers",
+  "title": "Nombres 11 à 20",
+  "activities": [
+    {
+      "type": "count",
+      "prompt": "Comptez les objets et dites leur nombre en français.",
+      "items": [
+        {"image": "images/11-books.png", "answer": "onze"},
+        {"image": "images/15-apples.png", "answer": "quinze"}
+      ]
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "Complétez avec le nombre.",
+      "sentence": "Il y a ___ élèves dans la classe (douze).",
+      "answer": "douze"
+    }
+  ]
+}

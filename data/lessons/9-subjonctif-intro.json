@@ -1,0 +1,21 @@
+{
+  "id": "9-subjonctif-intro",
+  "title": "Introduction au subjonctif",
+  "activities": [
+    {
+      "type": "match",
+      "prompt": "Associez les phrases au subjonctif avec leur traduction.",
+      "items": [
+        {"left": "Il faut que tu viennes", "right": "You must come"},
+        {"left": "Je veux qu'il parte", "right": "I want him to leave"},
+        {"left": "Bien que je sois fatigué", "right": "Although I am tired"}
+      ]
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "Complétez avec le verbe au subjonctif.",
+      "sentence": "Il faut que tu ___ (finir) tes devoirs.",
+      "answer": "finisses"
+    }
+  ]
+}

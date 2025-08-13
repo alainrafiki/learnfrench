@@ -1,0 +1,21 @@
+{
+  "id": "2-animals",
+  "title": "Animaux sauvages",
+  "activities": [
+    {
+      "type": "match",
+      "prompt": "Associez les animaux sauvages avec leur nom en français.",
+      "items": [
+        {"left": "Lion", "right": "Lion"},
+        {"left": "Tiger", "right": "Tigre"},
+        {"left": "Elephant", "right": "Éléphant"}
+      ]
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "Complétez avec le bon animal.",
+      "sentence": "Le roi de la jungle est le ___.",
+      "answer": "lion"
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "id": "1-days",
+  "title": "Jours de la semaine",
+  "activities": [
+    {
+      "type": "match",
+      "prompt": "Associez les jours avec leur nom en français.",
+      "items": [
+        {"left": "Monday", "right": "Lundi"},
+        {"left": "Tuesday", "right": "Mardi"},
+        {"left": "Wednesday", "right": "Mercredi"}
+      ]
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "Complétez avec le bon jour.",
+      "sentence": "Le premier jour de la semaine est ___.",
+      "answer": "lundi"
+    }
+  ]
+}

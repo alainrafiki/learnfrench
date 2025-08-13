@@ -1,0 +1,21 @@
+{
+  "id": "K-shapes",
+  "title": "Formes géométriques",
+  "activities": [
+    {
+      "type": "match",
+      "prompt": "Associez les formes avec leur nom en français.",
+      "items": [
+        {"left": "Square", "right": "Carré"},
+        {"left": "Circle", "right": "Cercle"},
+        {"left": "Triangle", "right": "Triangle"}
+      ]
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "Complétez avec la bonne forme.",
+      "sentence": "La roue est un ___.",
+      "answer": "cercle"
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "id": "12-expression-orale",
+  "title": "Expression orale",
+  "activities": [
+    {
+      "type": "match",
+      "prompt": "Associez les types de présentations avec leur description.",
+      "items": [
+        {"left": "Exposé", "right": "Présentation d'un sujet"},
+        {"left": "Débat", "right": "Discussion d'idées"},
+        {"left": "Lecture", "right": "Lire à voix haute"}
+      ]
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "Complétez avec le type de présentation.",
+      "sentence": "Un ___ permet d'échanger des opinions.",
+      "answer": "débat"
+    }
+  ]
+}

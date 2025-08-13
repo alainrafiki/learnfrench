@@ -1,0 +1,21 @@
+{
+  "id": "7-passe-compose-intro",
+  "title": "Passé composé (intro)",
+  "activities": [
+    {
+      "type": "match",
+      "prompt": "Associez les verbes au passé composé avec leur traduction.",
+      "items": [
+        {"left": "J'ai mangé", "right": "I ate"},
+        {"left": "Tu as joué", "right": "You played"},
+        {"left": "Il a fini", "right": "He finished"}
+      ]
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "Complétez avec le verbe au passé composé.",
+      "sentence": "Hier, j'___ un gâteau.",
+      "answer": "ai mangé"
+    }
+  ]
+}

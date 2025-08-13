@@ -1,0 +1,21 @@
+{
+  "id": "3-days-months",
+  "title": "Jours & Mois",
+  "activities": [
+    {
+      "type": "match",
+      "prompt": "Associez les mois avec leur nom en français.",
+      "items": [
+        {"left": "January", "right": "Janvier"},
+        {"left": "February", "right": "Février"},
+        {"left": "March", "right": "Mars"}
+      ]
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "Complétez avec le bon mois.",
+      "sentence": "Le premier mois de l’année est ___.",
+      "answer": "janvier"
+    }
+  ]
+}

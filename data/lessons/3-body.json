@@ -1,0 +1,21 @@
+{
+  "id": "3-body",
+  "title": "Le corps humain",
+  "activities": [
+    {
+      "type": "match",
+      "prompt": "Associez les parties du corps avec leur nom en français.",
+      "items": [
+        {"left": "Head", "right": "Tête"},
+        {"left": "Arm", "right": "Bras"},
+        {"left": "Leg", "right": "Jambe"}
+      ]
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "Complétez avec la bonne partie du corps.",
+      "sentence": "On marche avec les ___.",
+      "answer": "jambes"
+    }
+  ]
+}

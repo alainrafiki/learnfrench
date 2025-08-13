@@ -1,0 +1,21 @@
+{
+  "id": "7-sports",
+  "title": "Les sports",
+  "activities": [
+    {
+      "type": "match",
+      "prompt": "Associez les sports avec leur traduction.",
+      "items": [
+        {"left": "Football", "right": "Soccer"},
+        {"left": "Basketball", "right": "Basket-ball"},
+        {"left": "Natation", "right": "Swimming"}
+      ]
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "Complétez avec le bon sport.",
+      "sentence": "Je joue au ___.",
+      "answer": "football"
+    }
+  ]
+}

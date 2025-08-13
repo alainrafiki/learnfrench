@@ -1,0 +1,21 @@
+{
+  "id": "6-family-advanced",
+  "title": "Parler de la famille",
+  "activities": [
+    {
+      "type": "match",
+      "prompt": "Associez les membres de la famille avec leur description.",
+      "items": [
+        {"left": "Oncle", "right": "Frère de ma mère"},
+        {"left": "Cousine", "right": "Fille de ma tante"},
+        {"left": "Grand-mère", "right": "Mère de mon père"}
+      ]
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "Complétez avec le bon membre de la famille.",
+      "sentence": "Le père de mon père est mon ___.",
+      "answer": "grand-père"
+    }
+  ]
+}

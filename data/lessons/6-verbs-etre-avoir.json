@@ -1,0 +1,20 @@
+{
+  "id": "6-verbs-etre-avoir",
+  "title": "Être & Avoir",
+  "activities": [
+    {
+      "type": "match",
+      "prompt": "Associez les verbes avec leur traduction.",
+      "items": [
+        {"left": "Être", "right": "To be"},
+        {"left": "Avoir", "right": "To have"}
+      ]
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "Complétez avec le bon verbe.",
+      "sentence": "Je ___ un livre.",
+      "answer": "ai"
+    }
+  ]
+}

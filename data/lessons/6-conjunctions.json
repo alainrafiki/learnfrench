@@ -1,0 +1,21 @@
+{
+  "id": "6-conjunctions",
+  "title": "Conjonctions",
+  "activities": [
+    {
+      "type": "match",
+      "prompt": "Associez les conjonctions avec leur traduction.",
+      "items": [
+        {"left": "Et", "right": "And"},
+        {"left": "Mais", "right": "But"},
+        {"left": "Ou", "right": "Or"}
+      ]
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "Complétez avec la bonne conjonction.",
+      "sentence": "J'aime le chocolat ___ la vanille.",
+      "answer": "et"
+    }
+  ]
+}

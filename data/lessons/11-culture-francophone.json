@@ -1,0 +1,21 @@
+{
+  "id": "11-culture-francophone",
+  "title": "Culture francophone",
+  "activities": [
+    {
+      "type": "match",
+      "prompt": "Associez les pays francophones avec leur capitale.",
+      "items": [
+        {"left": "France", "right": "Paris"},
+        {"left": "Sénégal", "right": "Dakar"},
+        {"left": "Canada", "right": "Ottawa"}
+      ]
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "Complétez avec le pays.",
+      "sentence": "La capitale du Sénégal est ___.",
+      "answer": "Dakar"
+    }
+  ]
+}

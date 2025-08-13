@@ -1,0 +1,21 @@
+{
+  "id": "9-politique",
+  "title": "Politique française",
+  "activities": [
+    {
+      "type": "match",
+      "prompt": "Associez les mots de la politique avec leur traduction.",
+      "items": [
+        {"left": "Président", "right": "President"},
+        {"left": "Élection", "right": "Election"},
+        {"left": "Parti", "right": "Party"}
+      ]
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "Complétez avec le bon mot.",
+      "sentence": "Le ___ est élu tous les cinq ans.",
+      "answer": "président"
+    }
+  ]
+}

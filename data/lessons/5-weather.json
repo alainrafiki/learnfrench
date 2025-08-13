@@ -1,0 +1,21 @@
+{
+  "id": "5-weather",
+  "title": "Le climat",
+  "activities": [
+    {
+      "type": "match",
+      "prompt": "Associez les mots du climat avec leur traduction.",
+      "items": [
+        {"left": "Rain", "right": "Pluie"},
+        {"left": "Wind", "right": "Vent"},
+        {"left": "Cloud", "right": "Nuage"}
+      ]
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "Complétez avec le bon mot.",
+      "sentence": "Quand il y a des nuages, le ciel est ___.",
+      "answer": "nuageux"
+    }
+  ]
+}

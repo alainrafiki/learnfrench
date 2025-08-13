@@ -1,0 +1,21 @@
+{
+  "id": "3-emotions",
+  "title": "Sentiments",
+  "activities": [
+    {
+      "type": "match",
+      "prompt": "Associez les sentiments avec leur nom en français.",
+      "items": [
+        {"left": "Happy", "right": "Heureux"},
+        {"left": "Sad", "right": "Triste"},
+        {"left": "Angry", "right": "En colère"}
+      ]
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "Complétez avec le bon sentiment.",
+      "sentence": "Quand je gagne, je suis ___.",
+      "answer": "heureux"
+    }
+  ]
+}

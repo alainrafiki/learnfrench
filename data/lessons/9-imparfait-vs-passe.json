@@ -1,0 +1,21 @@
+{
+  "id": "9-imparfait-vs-passe",
+  "title": "Imparfait vs Passé composé",
+  "activities": [
+    {
+      "type": "match",
+      "prompt": "Associez les phrases à l'imparfait ou au passé composé.",
+      "items": [
+        {"left": "Je mangeais", "right": "I was eating"},
+        {"left": "J'ai mangé", "right": "I ate"},
+        {"left": "Il pleuvait", "right": "It was raining"}
+      ]
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "Complétez avec le bon temps.",
+      "sentence": "Hier, je ___ un film (ai regardé).",
+      "answer": "ai regardé"
+    }
+  ]
+}

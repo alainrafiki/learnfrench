@@ -1,0 +1,21 @@
+{
+  "id": "7-travel",
+  "title": "Voyager en France",
+  "activities": [
+    {
+      "type": "match",
+      "prompt": "Associez les phrases utiles avec leur traduction.",
+      "items": [
+        {"left": "Où est la gare ?", "right": "Where is the train station?"},
+        {"left": "Combien ça coûte ?", "right": "How much does it cost?"},
+        {"left": "Je voudrais un billet.", "right": "I would like a ticket."}
+      ]
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "Complétez la phrase utile.",
+      "sentence": "Je voudrais ___ billet pour Paris.",
+      "answer": "un"
+    }
+  ]
+}

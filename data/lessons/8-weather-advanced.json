@@ -1,0 +1,21 @@
+{
+  "id": "8-weather-advanced",
+  "title": "Parler du temps",
+  "activities": [
+    {
+      "type": "match",
+      "prompt": "Associez les prévisions météo avec leur traduction.",
+      "items": [
+        {"left": "Il va pleuvoir", "right": "It will rain"},
+        {"left": "Il fera chaud", "right": "It will be hot"},
+        {"left": "Il y aura du vent", "right": "It will be windy"}
+      ]
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "Complétez avec le bon mot.",
+      "sentence": "En été, il fait souvent ___.",
+      "answer": "chaud"
+    }
+  ]
+}

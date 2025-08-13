@@ -1,0 +1,21 @@
+{
+  "id": "2-transport",
+  "title": "Moyens de transport",
+  "activities": [
+    {
+      "type": "match",
+      "prompt": "Associez les moyens de transport avec leur nom en français.",
+      "items": [
+        {"left": "Bus", "right": "Bus"},
+        {"left": "Car", "right": "Voiture"},
+        {"left": "Bicycle", "right": "Vélo"}
+      ]
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "Complétez avec le bon moyen de transport.",
+      "sentence": "Je vais à l’école en ___.",
+      "answer": "bus"
+    }
+  ]
+}
