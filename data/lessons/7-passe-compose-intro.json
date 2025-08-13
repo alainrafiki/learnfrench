@@ -17,5 +17,12 @@
       "sentence": "Hier, j'___ un gâteau.",
       "answer": "ai mangé"
     }
+    ,
+    {
+      "type": "mcq",
+      "prompt": "Quel est le participe passé de 'finir' ?",
+      "options": ["fini", "finis", "finiré"],
+      "answer": 0
+    }
   ]
 }

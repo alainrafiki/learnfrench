@@ -17,5 +17,12 @@
       "sentence": "Marie ___ à l'école ce matin.",
       "answer": "est allée"
     }
+    ,
+    {
+      "type": "mcq",
+      "prompt": "Quel auxiliaire utilise-t-on avec 'aller' au passé composé ?",
+      "options": ["avoir", "être", "faire"],
+      "answer": 1
+    }
   ]
 }

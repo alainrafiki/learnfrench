@@ -17,5 +17,14 @@
       "sentence": "Quand il y a des nuages, le ciel est ___.",
       "answer": "nuageux"
     }
+    ,
+    {
+      "type": "flashcards",
+      "cards": [
+        {"fr": "pluie", "en": "rain"},
+        {"fr": "vent", "en": "wind"},
+        {"fr": "nuage", "en": "cloud"}
+      ]
+    }
   ]
 }

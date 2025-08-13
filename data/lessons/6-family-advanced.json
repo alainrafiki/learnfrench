@@ -17,5 +17,12 @@
       "sentence": "Le père de mon père est mon ___.",
       "answer": "grand-père"
     }
+    ,
+    {
+      "type": "mcq",
+      "prompt": "Qui est la fille de ma tante ?",
+      "options": ["Cousine", "Oncle", "Grand-mère"],
+      "answer": 0
+    }
   ]
 }

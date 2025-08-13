@@ -17,5 +17,12 @@
       "sentence": "Le 25 décembre, c'est ___.",
       "answer": "Noël"
     }
+    ,
+    {
+      "type": "mcq",
+      "prompt": "Quelle fête a lieu le 14 juillet ?",
+      "options": ["Noël", "Pâques", "La Fête Nationale"],
+      "answer": 2
+    }
   ]
 }

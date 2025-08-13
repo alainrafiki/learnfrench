@@ -16,5 +16,12 @@
       "sentence": "Je ___ un livre.",
       "answer": "ai"
     }
+    ,
+    {
+      "type": "mcq",
+      "prompt": "Quel est le verbe 'to be' en français ?",
+      "options": ["avoir", "être", "aller"],
+      "answer": 1
+    }
   ]
 }

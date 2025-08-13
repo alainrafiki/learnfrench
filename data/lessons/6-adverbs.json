@@ -17,5 +17,12 @@
       "sentence": "Je mange ___ des légumes (souvent).",
       "answer": "souvent"
     }
+    ,
+    {
+      "type": "mcq",
+      "prompt": "Quel adverbe signifie 'never' ?",
+      "options": ["Toujours", "Jamais", "Souvent"],
+      "answer": 1
+    }
   ]
 }

@@ -17,5 +17,12 @@
       "sentence": "___ pomme est rouge.",
       "answer": "La"
     }
+    ,
+    {
+      "type": "mcq",
+      "prompt": "Quel article est pluriel ?",
+      "options": ["le", "la", "les"],
+      "answer": 2
+    }
   ]
 }

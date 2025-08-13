@@ -17,5 +17,14 @@
       "sentence": "J'aime le chocolat ___ la vanille.",
       "answer": "et"
     }
+    ,
+    {
+      "type": "flashcards",
+      "cards": [
+        {"fr": "et", "en": "and"},
+        {"fr": "mais", "en": "but"},
+        {"fr": "ou", "en": "or"}
+      ]
+    }
   ]
 }

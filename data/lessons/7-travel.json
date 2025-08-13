@@ -17,5 +17,12 @@
       "sentence": "Je voudrais ___ billet pour Paris.",
       "answer": "un"
     }
+    ,
+    {
+      "type": "mcq",
+      "prompt": "Que demande-t-on à la gare ?",
+      "options": ["un billet", "un café", "un livre"],
+      "answer": 0
+    }
   ]
 }

@@ -17,5 +17,14 @@
       "sentence": "Je joue au ___.",
       "answer": "football"
     }
+    ,
+    {
+      "type": "flashcards",
+      "cards": [
+        {"fr": "football", "en": "soccer"},
+        {"fr": "basket-ball", "en": "basketball"},
+        {"fr": "natation", "en": "swimming"}
+      ]
+    }
   ]
 }

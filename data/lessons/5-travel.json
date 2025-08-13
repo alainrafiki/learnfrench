@@ -16,6 +16,12 @@
       "prompt": "Complétez avec le bon moyen de transport.",
       "sentence": "Pour aller à Paris, je prends l'___.",
       "answer": "avion"
+    },
+    {
+      "type": "mcq",
+      "prompt": "Quel moyen de transport va sur l'eau ?",
+      "options": ["Train", "Avion", "Bateau"],
+      "answer": 2
     }
   ]
 }

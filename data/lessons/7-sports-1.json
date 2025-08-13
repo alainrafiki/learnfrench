@@ -20,5 +20,12 @@
       "prompt": "Je joue __ tennis.",
       "answer": "au"
     }
+    ,
+    {
+      "type": "mcq",
+      "prompt": "Quel sport se joue avec un ballon rond ?",
+      "options": ["tennis", "football", "basket"],
+      "answer": 1
+    }
   ]
 }

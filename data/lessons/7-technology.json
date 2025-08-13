@@ -17,5 +17,12 @@
       "sentence": "J'envoie un message avec mon ___.",
       "answer": "téléphone"
     }
+    ,
+    {
+      "type": "mcq",
+      "prompt": "Quel mot signifie 'Computer' ?",
+      "options": ["Téléphone", "Ordinateur", "Internet"],
+      "answer": 1
+    }
   ]
 }

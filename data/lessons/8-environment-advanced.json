@@ -17,5 +17,14 @@
       "sentence": "Il faut ___ la nature.",
       "answer": "protéger"
     }
+    ,
+    {
+      "type": "flashcards",
+      "cards": [
+        {"fr": "recycler", "en": "to recycle"},
+        {"fr": "protéger", "en": "to protect"},
+        {"fr": "planète", "en": "planet"}
+      ]
+    }
   ]
 }
