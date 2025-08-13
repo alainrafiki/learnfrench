@@ -1,0 +1,20 @@
+{
+  "id": "K-numbers",
+  "title": "Nombres 1 à 10",
+  "activities": [
+    {
+      "type": "count",
+      "prompt": "Comptez les objets et dites leur nombre.",
+      "items": [
+        {"image": "images/3-apples.png", "answer": "3"},
+        {"image": "images/5-balls.png", "answer": "5"}
+      ]
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "Complétez avec le nombre.",
+      "sentence": "Il y a ___ pommes.",
+      "answer": "trois"
+    }
+  ]
+}

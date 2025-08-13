@@ -1,0 +1,21 @@
+{
+  "id": "K-colors",
+  "title": "Couleurs de base",
+  "activities": [
+    {
+      "type": "match",
+      "prompt": "Associez les mots avec les images de couleurs.",
+      "items": [
+        {"left": "Rouge", "right": "Red"},
+        {"left": "Bleu", "right": "Blue"},
+        {"left": "Vert", "right": "Green"}
+      ]
+    },
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "Complétez avec la bonne couleur.",
+      "sentence": "Le soleil est ___.",
+      "answer": "jaune"
+    }
+  ]
+}
