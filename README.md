@@ -9,6 +9,11 @@ Runs entirely on GitHub Pages — no server or database.
 - Progress auto-saved to `localStorage`
 - PWA: installable and offline-capable
 
+## Quick Start (GitHub Pages)
+1. Create a new GitHub repo and upload this folder's contents.
+2. In repo **Settings → Pages**, set **Source** to `Deploy from a branch`, and choose `main` + `/ (root)`.
+3. Visit your Pages URL (e.g., `https://<you>.github.io/<repo>/`).
+
 ## Add / Edit Lessons
 - Update `data/lessons_index.json` to add lessons per grade.
 - Create lesson JSON files in `data/lessons/` with the same `id` used in the index.

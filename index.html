@@ -1,20 +1,21 @@
-<!DOCTYPE html>
-<html lang="fr">
+<!doctype html>
+<html lang="en">
 <head>
-  <meta charset="UTF-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
   <title>Apprendre le Français — K–12</title>
-  <link rel="stylesheet" href="styles.css" />
+  <link rel="manifest" href="manifest.webmanifest">
+  <link rel="icon" href="assets/icons/icon-192.png">
+  <link rel="apple-touch-icon" href="assets/icons/icon-192.png">
   <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+  <link rel="stylesheet" href="style.css">
+  <meta name="theme-color" content="#2f2f7f">
 </head>
 <body>
-  <header>
-    <h1>Apprendre le Français — K–12</h1>
-    <nav>
-      <button id="homeBtn" aria-label="Accueil">
-        <span class="material-icons">home</span>
-      </button>
-    </nav>
+  <header class="app-header">
+    <button class="icon-btn" aria-label="Home" id="homeBtn"><span class="material-icons">home</span></button>
+    <h1 id="appTitle">Apprendre le Français — K–12</h1>
+    <button class="icon-btn" aria-label="Install App" id="installBtn" hidden><span class="material-icons">download</span></button>
   </header>
 
   <main id="view">
@@ -25,25 +26,38 @@
       <p class="muted">Progression sauvegardée automatiquement sur cet appareil.</p>
     </section>
 
-    <!-- Grade lessons view -->
-    <section class="card pad hidden" id="gradeView" aria-labelledby="gradeViewTitle">
-      <h2 id="gradeViewTitle"></h2>
-      <div id="lessonList" role="list"></div>
+    <!-- Lessons view -->
+    <section class="card pad" id="lessonsView" hidden>
+      <button class="chip" id="backToGrades"><span class="material-icons">arrow_back</span> Niveaux</button>
+      <h2 id="lessonsTitle"></h2>
+      <div id="lessonsList" class="list"></div>
     </section>
 
-    <!-- Lesson detail view -->
-    <section class="card pad hidden" id="lessonView" aria-labelledby="lessonTitle">
-      <h2 id="lessonTitle"></h2>
-      <div id="lessonContent"></div>
-      <button id="backToGrade" class="btn">Retour au niveau</button>
+    <!-- Player view -->
+    <section class="card pad" id="playerView" hidden>
+      <div class="player-head">
+        <button class="chip" id="backToLessons"><span class="material-icons">arrow_back</span> Leçons</button>
+        <h2 id="lessonTitle"></h2>
+        <div class="progress-wrap">
+          <div id="progressBar" class="progress-bar" aria-label="Progression de la leçon"></div>
+        </div>
+      </div>
+      <div id="activityHost"></div>
+      <div class="player-controls">
+        <button class="btn" id="prevAct"><span class="material-icons">chevron_left</span> Précédent</button>
+        <button class="btn primary" id="checkAct"><span class="material-icons">check</span> Vérifier</button>
+        <button class="btn" id="nextAct">Suivant <span class="material-icons">chevron_right</span></button>
+      </div>
     </section>
   </main>
 
-  <footer>
-    <p>© 2025 Apprendre le Français pour Homeschool (K–12)</p>
-    <p>GitHub Pages Ready</p>
+  <footer class="app-footer">
+    <span>© 2025 Apprendre le Français pour Homeschool (K–12)</span>
+    <a href="https://github.com/" target="_blank" rel="noopener">GitHub Pages Ready</a>
   </footer>
 
+  <script src="storage.js"></script>
+  <script src="activities.js"></script>
   <script src="app.js"></script>
 </body>
 </html>
