@@ -17,5 +17,14 @@
       "sentence": "Le roi de la jungle est le ___.",
       "answer": "lion"
     }
+    ,
+    {
+      "type": "flashcards",
+      "cards": [
+        {"fr": "lion", "en": "lion"},
+        {"fr": "tigre", "en": "tiger"},
+        {"fr": "éléphant", "en": "elephant"}
+      ]
+    }
   ]
 }

@@ -17,5 +17,12 @@
       "sentence": "J’aime jouer au ___.",
       "answer": "football"
     }
+    ,
+    {
+      "type": "mcq",
+      "prompt": "Quel loisir consiste à lire des livres ?",
+      "options": ["Football", "Lecture", "Musique"],
+      "answer": 1
+    }
   ]
 }

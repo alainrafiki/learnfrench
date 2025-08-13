@@ -17,5 +17,12 @@
       "sentence": "Ma passion est la ___.",
       "answer": "musique"
     }
+    ,
+    {
+      "type": "mcq",
+      "prompt": "Quel loisir signifie 'Reading' ?",
+      "options": ["Musique", "Sport", "Lecture"],
+      "answer": 2
+    }
   ]
 }

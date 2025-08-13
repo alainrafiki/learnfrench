@@ -17,5 +17,12 @@
       "sentence": "La maison est très ___.",
       "answer": "grande"
     }
+    ,
+    {
+      "type": "mcq",
+      "prompt": "Quel adjectif signifie 'small' ?",
+      "options": ["Grand", "Petit", "Beau"],
+      "answer": 1
+    }
   ]
 }

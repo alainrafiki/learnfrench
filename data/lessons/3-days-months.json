@@ -17,5 +17,14 @@
       "sentence": "Le premier mois de l’année est ___.",
       "answer": "janvier"
     }
+    ,
+    {
+      "type": "flashcards",
+      "cards": [
+        {"fr": "janvier", "en": "january"},
+        {"fr": "février", "en": "february"},
+        {"fr": "mars", "en": "march"}
+      ]
+    }
   ]
 }

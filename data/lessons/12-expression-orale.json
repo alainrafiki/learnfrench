@@ -17,5 +17,12 @@
       "sentence": "Un ___ permet d'échanger des opinions.",
       "answer": "débat"
     }
+    ,
+    {
+      "type": "mcq",
+      "prompt": "Quel type de présentation consiste à lire à voix haute ?",
+      "options": ["Débat", "Lecture", "Exposé"],
+      "answer": 1
+    }
   ]
 }

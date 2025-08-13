@@ -17,5 +17,12 @@
       "sentence": "J'___ le français à l'école.",
       "answer": "apprends"
     }
+    ,
+    {
+      "type": "mcq",
+      "prompt": "Quel verbe signifie 'to play' ?",
+      "options": ["Parler", "Aimer", "Jouer"],
+      "answer": 2
+    }
   ]
 }

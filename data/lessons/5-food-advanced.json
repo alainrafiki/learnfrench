@@ -17,5 +17,12 @@
       "sentence": "La ___ est un pain français.",
       "answer": "baguette"
     }
+    ,
+    {
+      "type": "mcq",
+      "prompt": "Quel plat est du fromage ?",
+      "options": ["Baguette", "Fromage", "Soupe"],
+      "answer": 1
+    }
   ]
 }

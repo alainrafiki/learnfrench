@@ -17,5 +17,12 @@
       "sentence": "Germinal est un roman de ___.",
       "answer": "Zola"
     }
+    ,
+    {
+      "type": "mcq",
+      "prompt": "Qui a écrit 'Le Rouge et le Noir' ?",
+      "options": ["Flaubert", "Stendhal", "Zola"],
+      "answer": 1
+    }
   ]
 }

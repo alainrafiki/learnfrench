@@ -17,5 +17,14 @@
       "sentence": "J’étudie à l’___.",
       "answer": "école"
     }
+    ,
+    {
+      "type": "flashcards",
+      "cards": [
+        {"fr": "parc", "en": "park"},
+        {"fr": "école", "en": "school"},
+        {"fr": "maison", "en": "house"}
+      ]
+    }
   ]
 }

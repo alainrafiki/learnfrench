@@ -17,5 +17,14 @@
       "sentence": "Le matin, je prends le ___.",
       "answer": "petit déjeuner"
     }
+    ,
+    {
+      "type": "flashcards",
+      "cards": [
+        {"fr": "petit déjeuner", "en": "breakfast"},
+        {"fr": "déjeuner", "en": "lunch"},
+        {"fr": "eau", "en": "water"}
+      ]
+    }
   ]
 }

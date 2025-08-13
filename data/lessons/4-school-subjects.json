@@ -17,5 +17,12 @@
       "sentence": "J'aime beaucoup la matière ___.",
       "answer": "français"
     }
+    ,
+    {
+      "type": "mcq",
+      "prompt": "Quelle matière signifie 'Science' ?",
+      "options": ["Mathématiques", "Français", "Sciences"],
+      "answer": 2
+    }
   ]
 }

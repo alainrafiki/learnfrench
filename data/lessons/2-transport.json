@@ -17,5 +17,12 @@
       "sentence": "Je vais à l’école en ___.",
       "answer": "bus"
     }
+    ,
+    {
+      "type": "mcq",
+      "prompt": "Quel moyen de transport a deux roues ?",
+      "options": ["Bus", "Voiture", "Vélo"],
+      "answer": 2
+    }
   ]
 }

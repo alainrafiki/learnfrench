@@ -17,5 +17,12 @@
       "sentence": "La ___ regroupe les coutumes d'un peuple.",
       "answer": "culture"
     }
+    ,
+    {
+      "type": "mcq",
+      "prompt": "Quel mot signifie 'Groupe d'individus' ?",
+      "options": ["Culture", "Société", "Valeur"],
+      "answer": 1
+    }
   ]
 }

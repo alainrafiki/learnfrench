@@ -17,5 +17,12 @@
       "sentence": "On marche avec les ___.",
       "answer": "jambes"
     }
+    ,
+    {
+      "type": "mcq",
+      "prompt": "Quelle partie du corps est utilisée pour penser ?",
+      "options": ["Bras", "Tête", "Jambe"],
+      "answer": 1
+    }
   ]
 }

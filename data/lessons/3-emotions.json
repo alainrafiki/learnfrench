@@ -17,5 +17,12 @@
       "sentence": "Quand je gagne, je suis ___.",
       "answer": "heureux"
     }
+    ,
+    {
+      "type": "mcq",
+      "prompt": "Quel mot signifie 'sad' en français ?",
+      "options": ["Heureux", "Triste", "En colère"],
+      "answer": 1
+    }
   ]
 }

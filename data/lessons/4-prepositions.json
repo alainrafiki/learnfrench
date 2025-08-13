@@ -17,5 +17,14 @@
       "sentence": "Le chat est ___ la table.",
       "answer": "sous"
     }
+    ,
+    {
+      "type": "flashcards",
+      "cards": [
+        {"fr": "sur", "en": "on"},
+        {"fr": "sous", "en": "under"},
+        {"fr": "dans", "en": "in"}
+      ]
+    }
   ]
 }

@@ -17,5 +17,12 @@
       "sentence": "L'existentialisme est une philosophie de ___.",
       "answer": "Sartre"
     }
+    ,
+    {
+      "type": "mcq",
+      "prompt": "Qui est l'auteur de l'absurdisme ?",
+      "options": ["Sartre", "Camus", "Lévi-Strauss"],
+      "answer": 1
+    }
   ]
 }

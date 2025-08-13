@@ -17,5 +17,12 @@
       "sentence": "En été, je porte une ___.",
       "answer": "robe"
     }
+    ,
+    {
+      "type": "mcq",
+      "prompt": "Quel vêtement est porté en haut du corps ?",
+      "options": ["Pantalon", "Chemise", "Robe"],
+      "answer": 1
+    }
   ]
 }

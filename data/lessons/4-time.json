@@ -17,5 +17,14 @@
       "sentence": "Il est ___ heures du matin.",
       "answer": "huit"
     }
+    ,
+    {
+      "type": "flashcards",
+      "cards": [
+        {"fr": "huit heures", "en": "eight o'clock"},
+        {"fr": "midi", "en": "noon"},
+        {"fr": "six heures du soir", "en": "six in the evening"}
+      ]
+    }
   ]
 }

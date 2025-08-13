@@ -17,5 +17,14 @@
       "sentence": "La ___ étudie les équations et les nombres.",
       "answer": "mathématiques"
     }
+    ,
+    {
+      "type": "flashcards",
+      "cards": [
+        {"fr": "physique", "en": "physics"},
+        {"fr": "mathématiques", "en": "mathematics"},
+        {"fr": "chimie", "en": "chemistry"}
+      ]
+    }
   ]
 }

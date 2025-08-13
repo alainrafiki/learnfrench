@@ -17,5 +17,14 @@
       "sentence": "La ___ coule dans la vallée.",
       "answer": "rivière"
     }
+    ,
+    {
+      "type": "flashcards",
+      "cards": [
+        {"fr": "arbre", "en": "tree"},
+        {"fr": "fleur", "en": "flower"},
+        {"fr": "rivière", "en": "river"}
+      ]
+    }
   ]
 }
