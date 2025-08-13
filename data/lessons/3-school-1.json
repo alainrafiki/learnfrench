@@ -1,0 +1,49 @@
+{
+  "id": "3-school-1",
+  "title": "L’école",
+  "activities": [
+    {
+      "type": "flashcards",
+      "cards": [
+        {
+          "fr": "stylo",
+          "en": "pen"
+        },
+        {
+          "fr": "crayon",
+          "en": "pencil"
+        },
+        {
+          "fr": "cahier",
+          "en": "notebook"
+        }
+      ]
+    },
+    {
+      "type": "match",
+      "pairs": [
+        {
+          "left": "stylo",
+          "right": "pen"
+        },
+        {
+          "left": "cahier",
+          "right": "notebook"
+        }
+      ]
+    },
+    {
+      "type": "fill",
+      "prompt": "Complète: __ cahier",
+      "answer": "le"
+    },
+    {
+      "type": "build",
+      "target": "crayon"
+    },
+    {
+      "type": "speak",
+      "phrase": "J’apporte mon cahier."
+    }
+  ]
+}

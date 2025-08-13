@@ -1,0 +1,53 @@
+{
+  "id": "2-family-1",
+  "title": "La famille",
+  "activities": [
+    {
+      "type": "flashcards",
+      "cards": [
+        {
+          "fr": "mère",
+          "en": "mother"
+        },
+        {
+          "fr": "père",
+          "en": "father"
+        },
+        {
+          "fr": "frère",
+          "en": "brother"
+        },
+        {
+          "fr": "soeur",
+          "en": "sister"
+        }
+      ]
+    },
+    {
+      "type": "match",
+      "pairs": [
+        {
+          "left": "père",
+          "right": "father"
+        },
+        {
+          "left": "soeur",
+          "right": "sister"
+        }
+      ]
+    },
+    {
+      "type": "fill",
+      "prompt": "Complète: __ mère",
+      "answer": "la"
+    },
+    {
+      "type": "build",
+      "target": "famille"
+    },
+    {
+      "type": "speak",
+      "phrase": "Ma famille est grande."
+    }
+  ]
+}

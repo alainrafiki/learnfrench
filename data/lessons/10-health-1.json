@@ -1,0 +1,24 @@
+{
+  "id": "10-health-1",
+  "title": "Santé",
+  "activities": [
+    {
+      "type": "match",
+      "pairs": [
+        {
+          "left": "ordonnance",
+          "right": "prescription"
+        },
+        {
+          "left": "fièvre",
+          "right": "fever"
+        }
+      ]
+    },
+    {
+      "type": "fill",
+      "prompt": "J’ai mal __ tête.",
+      "answer": "à la"
+    }
+  ]
+}

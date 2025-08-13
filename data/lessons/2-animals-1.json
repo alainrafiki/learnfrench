@@ -1,0 +1,46 @@
+{
+  "id": "2-animals-1",
+  "title": "Les animaux",
+  "activities": [
+    {
+      "type": "flashcards",
+      "cards": [
+        {
+          "fr": "chat",
+          "en": "cat"
+        },
+        {
+          "fr": "chien",
+          "en": "dog"
+        },
+        {
+          "fr": "oiseau",
+          "en": "bird"
+        }
+      ]
+    },
+    {
+      "type": "mcq",
+      "prompt": "Quel animal aboie ?",
+      "options": [
+        "chat",
+        "chien",
+        "oiseau"
+      ],
+      "answer": 1
+    },
+    {
+      "type": "fill",
+      "prompt": "Complète: __ chat",
+      "answer": "le"
+    },
+    {
+      "type": "build",
+      "target": "chien"
+    },
+    {
+      "type": "speak",
+      "phrase": "J’ai un chat."
+    }
+  ]
+}

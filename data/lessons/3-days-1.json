@@ -1,0 +1,46 @@
+{
+  "id": "3-days-1",
+  "title": "Jours & Mois",
+  "activities": [
+    {
+      "type": "flashcards",
+      "cards": [
+        {
+          "fr": "lundi",
+          "en": "Monday"
+        },
+        {
+          "fr": "mardi",
+          "en": "Tuesday"
+        },
+        {
+          "fr": "mercredi",
+          "en": "Wednesday"
+        }
+      ]
+    },
+    {
+      "type": "mcq",
+      "prompt": "Quel jour vient après mardi ?",
+      "options": [
+        "lundi",
+        "mercredi",
+        "jeudi"
+      ],
+      "answer": 1
+    },
+    {
+      "type": "fill",
+      "prompt": "Complète: __ mercredi",
+      "answer": "mercredi"
+    },
+    {
+      "type": "build",
+      "target": "lundi"
+    },
+    {
+      "type": "speak",
+      "phrase": "Aujourd’hui, c’est mercredi."
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "id": "1-greetings-1",
+  "title": "Salutations",
+  "activities": [
+    {
+      "type": "flashcards",
+      "cards": [
+        {
+          "fr": "bonsoir",
+          "en": "good evening"
+        },
+        {
+          "fr": "bonne nuit",
+          "en": "good night"
+        }
+      ]
+    },
+    {
+      "type": "mcq",
+      "prompt": "“bonne nuit” s’utilise…",
+      "options": [
+        "le matin",
+        "le soir pour dire au revoir",
+        "à midi"
+      ],
+      "answer": 1
+    },
+    {
+      "type": "fill",
+      "prompt": "Complète: __ école",
+      "answer": "l’"
+    },
+    {
+      "type": "build",
+      "target": "bonsoir"
+    },
+    {
+      "type": "speak",
+      "phrase": "Bonne journée !"
+    }
+  ]
+}

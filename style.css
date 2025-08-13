@@ -1,0 +1,86 @@
+/* Minimal, mobile-first design */
+:root{
+  --bg:#0f1226;
+  --card:#191d3a;
+  --ink:#ffffff;
+  --muted:#b7b9d6;
+  --accent:#6ee7f3;
+  --accent-2:#7c3aed;
+  --ok:#22c55e;
+  --warn:#f97316;
+  --err:#ef4444;
+  --radius:14px;
+  --gap:14px;
+  --shadow: 0 10px 30px rgba(0,0,0,.35);
+}
+*{box-sizing:border-box}
+html,body{height:100%}
+body{
+  margin:0; font-family: system-ui, -apple-system, Segoe UI, Roboto, "Helvetica Neue", Arial;
+  background:linear-gradient(180deg,#0b0f24 0%, #10153a 100%);
+  color:var(--ink);
+}
+.app-header, .app-footer{
+  display:flex; align-items:center; justify-content:space-between;
+  padding:10px 14px; background:rgba(0,0,0,.2); backdrop-filter:saturate(1.2) blur(8px);
+  position:sticky; top:0; z-index:10;
+}
+.app-footer{position:static; margin-top:30px; font-size:.9rem; color:var(--muted); gap:8px; flex-wrap:wrap; justify-content:center}
+h1,h2,h3{margin:.3em 0}
+h1{font-size:1.3rem}
+h2{font-size:1.1rem}
+main{padding:16px; max-width:1000px; margin:0 auto}
+.card{
+  background:var(--card); border-radius:var(--radius); box-shadow:var(--shadow);
+}
+.pad{padding:16px}
+.grid{
+  display:grid; grid-template-columns: repeat( auto-fill, minmax(110px,1fr) ); gap:var(--gap);
+}
+.grade-card{
+  background:linear-gradient(135deg, var(--accent-2), #4c1d95);
+  border-radius:16px; padding:18px; display:flex; align-items:flex-end; justify-content:space-between; min-height:90px;
+  cursor:pointer; transition:transform .1s ease, box-shadow .1s ease;
+}
+.grade-card:hover{transform:translateY(-2px); box-shadow:0 14px 30px rgba(0,0,0,.4)}
+.grade-badge{
+  background:rgba(255,255,255,.12); border-radius:10px; padding:6px 10px; font-weight:700;
+}
+.muted{color:var(--muted)}
+.icon-btn{background:transparent; border:0; color:var(--ink); cursor:pointer; padding:8px; border-radius:10px}
+.icon-btn:focus,.btn:focus,.chip:focus{outline:2px solid var(--accent); outline-offset:2px}
+.chip{
+  display:inline-flex; align-items:center; gap:6px; background:rgba(255,255,255,.1); border:0; border-radius:999px; padding:8px 12px; color:var(--ink); cursor:pointer;
+}
+.list{display:grid; gap:10px; margin-top:10px}
+.lesson-item{
+  display:flex; justify-content:space-between; align-items:center; padding:12px; border-radius:12px; background:rgba(255,255,255,.06);
+}
+.badges{display:flex; gap:8px; align-items:center}
+.badge{font-size:.8rem; padding:4px 8px; border-radius:999px; background:rgba(255,255,255,.12)}
+.btn{
+  display:inline-flex; align-items:center; gap:8px; padding:10px 14px; border:0; border-radius:12px; cursor:pointer; background:rgba(255,255,255,.12); color:var(--ink);
+}
+.btn.primary{background:linear-gradient(135deg, var(--accent), #0ea5e9); color:#001b2b; font-weight:700}
+.player-head{display:flex; align-items:center; justify-content:space-between; gap:10px; flex-wrap:wrap}
+.player-controls{display:flex; gap:10px; justify-content:space-between; margin-top:14px}
+.progress-wrap{flex:1; height:10px; background:rgba(255,255,255,.1); border-radius:999px; overflow:hidden}
+.progress-bar{height:100%; width:0%; background:linear-gradient(90deg, var(--ok), #22d3ee)}
+.activity{margin-top:14px}
+.cardlet{
+  background:rgba(255,255,255,.06); border-radius:12px; padding:14px; margin:8px 0;
+}
+.row{display:flex; gap:10px; flex-wrap:wrap}
+.input{padding:10px; border-radius:10px; border:1px solid rgba(255,255,255,.15); background:rgba(0,0,0,.2); color:var(--ink)}
+.flashcard{display:flex; align-items:center; justify-content:space-between; gap:10px}
+.big{font-size:1.6rem; font-weight:700}
+.center{text-align:center}
+.kbd{font-family:ui-monospace, SFMono-Regular; background:rgba(255,255,255,.08); padding:2px 6px; border-radius:6px}
+.pill{display:inline-flex; align-items:center; gap:6px; padding:6px 10px; border-radius:999px; background:rgba(255,255,255,.10)}
+.drag-item{padding:8px 12px; border-radius:10px; background:rgba(255,255,255,.08); cursor:grab; user-select:none}
+.drop-zone{min-height:48px; border:2px dashed rgba(255,255,255,.25); border-radius:12px; padding:10px}
+.correct{outline:2px solid var(--ok)}
+.incorrect{outline:2px solid var(--err)}
+@media (min-width: 720px){
+  h1{font-size:1.6rem} h2{font-size:1.3rem}
+}

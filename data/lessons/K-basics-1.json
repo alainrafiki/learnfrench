@@ -1,0 +1,71 @@
+{
+  "id": "K-basics-1",
+  "title": "Couleurs et salutations",
+  "activities": [
+    {
+      "type": "flashcards",
+      "cards": [
+        {
+          "fr": "bonjour",
+          "en": "hello"
+        },
+        {
+          "fr": "au revoir",
+          "en": "goodbye"
+        },
+        {
+          "fr": "merci",
+          "en": "thank you"
+        },
+        {
+          "fr": "rouge",
+          "en": "red"
+        },
+        {
+          "fr": "bleu",
+          "en": "blue"
+        }
+      ]
+    },
+    {
+      "type": "mcq",
+      "prompt": "“merci” veut dire…",
+      "options": [
+        "please",
+        "thank you",
+        "welcome"
+      ],
+      "answer": 1
+    },
+    {
+      "type": "match",
+      "pairs": [
+        {
+          "left": "bonjour",
+          "right": "hello"
+        },
+        {
+          "left": "au revoir",
+          "right": "goodbye"
+        },
+        {
+          "left": "rouge",
+          "right": "red"
+        }
+      ]
+    },
+    {
+      "type": "fill",
+      "prompt": "Complète: __ pomme (apple)",
+      "answer": "la"
+    },
+    {
+      "type": "build",
+      "target": "bonjour"
+    },
+    {
+      "type": "speak",
+      "phrase": "Salut ! Je m’appelle …"
+    }
+  ]
+}

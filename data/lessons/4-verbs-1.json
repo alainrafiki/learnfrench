@@ -1,0 +1,42 @@
+{
+  "id": "4-verbs-1",
+  "title": "Verbes -er (présent)",
+  "activities": [
+    {
+      "type": "flashcards",
+      "cards": [
+        {
+          "fr": "parler",
+          "en": "to speak"
+        },
+        {
+          "fr": "chanter",
+          "en": "to sing"
+        }
+      ]
+    },
+    {
+      "type": "mcq",
+      "prompt": "Je ____ (parler) français.",
+      "options": [
+        "parlez",
+        "parlons",
+        "parle"
+      ],
+      "answer": 2
+    },
+    {
+      "type": "fill",
+      "prompt": "Nous ____ (chanter)",
+      "answer": "chantons"
+    },
+    {
+      "type": "build",
+      "target": "parler"
+    },
+    {
+      "type": "speak",
+      "phrase": "Je parle français."
+    }
+  ]
+}

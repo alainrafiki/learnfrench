@@ -1,0 +1,42 @@
+{
+  "id": "5-places-1",
+  "title": "En ville",
+  "activities": [
+    {
+      "type": "flashcards",
+      "cards": [
+        {
+          "fr": "gare",
+          "en": "train station"
+        },
+        {
+          "fr": "banque",
+          "en": "bank"
+        },
+        {
+          "fr": "boulangerie",
+          "en": "bakery"
+        }
+      ]
+    },
+    {
+      "type": "mcq",
+      "prompt": "Où achète-t-on du pain ?",
+      "options": [
+        "boulangerie",
+        "banque",
+        "gare"
+      ],
+      "answer": 0
+    },
+    {
+      "type": "fill",
+      "prompt": "Je vais à la ____.",
+      "answer": "banque"
+    },
+    {
+      "type": "build",
+      "target": "boulangerie"
+    }
+  ]
+}

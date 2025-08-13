@@ -1,0 +1,49 @@
+{
+  "id": "1-food-1",
+  "title": "Nourriture",
+  "activities": [
+    {
+      "type": "flashcards",
+      "cards": [
+        {
+          "fr": "pomme",
+          "en": "apple"
+        },
+        {
+          "fr": "fromage",
+          "en": "cheese"
+        },
+        {
+          "fr": "pain",
+          "en": "bread"
+        }
+      ]
+    },
+    {
+      "type": "match",
+      "pairs": [
+        {
+          "left": "pomme",
+          "right": "apple"
+        },
+        {
+          "left": "pain",
+          "right": "bread"
+        }
+      ]
+    },
+    {
+      "type": "fill",
+      "prompt": "Complète: __ fromage",
+      "answer": "le"
+    },
+    {
+      "type": "build",
+      "target": "fromage"
+    },
+    {
+      "type": "speak",
+      "phrase": "J’aime le fromage."
+    }
+  ]
+}

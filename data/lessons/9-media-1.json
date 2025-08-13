@@ -1,0 +1,15 @@
+{
+  "id": "9-media-1",
+  "title": "Médias",
+  "activities": [
+    {
+      "type": "fill",
+      "prompt": "Je pense que les réseaux sociaux ____ (être) utiles.",
+      "answer": "sont"
+    },
+    {
+      "type": "build",
+      "target": "journal"
+    }
+  ]
+}

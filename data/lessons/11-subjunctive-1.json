@@ -1,0 +1,21 @@
+{
+  "id": "11-subjunctive-1",
+  "title": "Subjonctif (intro)",
+  "activities": [
+    {
+      "type": "mcq",
+      "prompt": "Il faut que tu ____ (venir).",
+      "options": [
+        "viens",
+        "viennes",
+        "venir"
+      ],
+      "answer": 1
+    },
+    {
+      "type": "fill",
+      "prompt": "Bien que ce ____ (être) difficile…",
+      "answer": "soit"
+    }
+  ]
+}

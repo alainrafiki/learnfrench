@@ -1,0 +1,29 @@
+{
+  "id": "6-verb-etre-1",
+  "title": "Être & Avoir",
+  "activities": [
+    {
+      "type": "flashcards",
+      "cards": [
+        {
+          "fr": "je suis",
+          "en": "I am"
+        },
+        {
+          "fr": "j’ai",
+          "en": "I have"
+        }
+      ]
+    },
+    {
+      "type": "fill",
+      "prompt": "Tu ____ (être) content.",
+      "answer": "es"
+    },
+    {
+      "type": "fill",
+      "prompt": "Nous ____ (avoir) faim.",
+      "answer": "avons"
+    }
+  ]
+}

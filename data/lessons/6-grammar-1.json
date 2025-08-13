@@ -1,0 +1,31 @@
+{
+  "id": "6-grammar-1",
+  "title": "Articles & Genre",
+  "activities": [
+    {
+      "type": "mcq",
+      "prompt": "Choisis l’article: __ arbre",
+      "options": [
+        "le",
+        "la",
+        "les"
+      ],
+      "answer": 0
+    },
+    {
+      "type": "mcq",
+      "prompt": "Choisis l’article: __ maison",
+      "options": [
+        "le",
+        "la",
+        "les"
+      ],
+      "answer": 1
+    },
+    {
+      "type": "fill",
+      "prompt": "Pluriel de “le livre”",
+      "answer": "les livres"
+    }
+  ]
+}

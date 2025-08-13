@@ -1,0 +1,24 @@
+{
+  "id": "10-conditional-1",
+  "title": "Conditionnel (intro)",
+  "activities": [
+    {
+      "type": "flashcards",
+      "cards": [
+        {
+          "fr": "je voudrais",
+          "en": "I would like"
+        },
+        {
+          "fr": "nous aimerions",
+          "en": "we would like"
+        }
+      ]
+    },
+    {
+      "type": "fill",
+      "prompt": "À ta place, je ____ (prendre) le train.",
+      "answer": "prendrais"
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "id": "12-literature-1",
+  "title": "Littérature",
+  "activities": [
+    {
+      "type": "fill",
+      "prompt": "Auteur de “Le Petit Prince”",
+      "answer": "Antoine de Saint-Exupéry"
+    },
+    {
+      "type": "build",
+      "target": "poésie"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "id": "8-travel-1",
+  "title": "Voyage: aéroport",
+  "activities": [
+    {
+      "type": "match",
+      "pairs": [
+        {
+          "left": "billet",
+          "right": "ticket"
+        },
+        {
+          "left": "passeport",
+          "right": "passport"
+        }
+      ]
+    },
+    {
+      "type": "fill",
+      "prompt": "Où est __ porte d’embarquement ?",
+      "answer": "la"
+    }
+  ]
+}

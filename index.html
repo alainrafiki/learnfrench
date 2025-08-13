@@ -1,0 +1,63 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Apprendre le Français — K–12</title>
+  <link rel="manifest" href="manifest.webmanifest">
+  <link rel="icon" href="assets/icons/icon-192.png">
+  <link rel="apple-touch-icon" href="assets/icons/icon-192.png">
+  <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+  <link rel="stylesheet" href="style.css">
+  <meta name="theme-color" content="#2f2f7f">
+</head>
+<body>
+  <header class="app-header">
+    <button class="icon-btn" aria-label="Home" id="homeBtn"><span class="material-icons">home</span></button>
+    <h1 id="appTitle">Apprendre le Français — K–12</h1>
+    <button class="icon-btn" aria-label="Install App" id="installBtn" hidden><span class="material-icons">download</span></button>
+  </header>
+
+  <main id="view">
+    <!-- Grade picker -->
+    <section class="card pad" id="gradePicker" aria-labelledby="gradePickerTitle">
+      <h2 id="gradePickerTitle">Choisis ton niveau</h2>
+      <div class="grid" id="gradeGrid" role="list"></div>
+      <p class="muted">Progression sauvegardée automatiquement sur cet appareil.</p>
+    </section>
+
+    <!-- Lessons view -->
+    <section class="card pad" id="lessonsView" hidden>
+      <button class="chip" id="backToGrades"><span class="material-icons">arrow_back</span> Niveaux</button>
+      <h2 id="lessonsTitle"></h2>
+      <div id="lessonsList" class="list"></div>
+    </section>
+
+    <!-- Player view -->
+    <section class="card pad" id="playerView" hidden>
+      <div class="player-head">
+        <button class="chip" id="backToLessons"><span class="material-icons">arrow_back</span> Leçons</button>
+        <h2 id="lessonTitle"></h2>
+        <div class="progress-wrap">
+          <div id="progressBar" class="progress-bar" aria-label="Progression de la leçon"></div>
+        </div>
+      </div>
+      <div id="activityHost"></div>
+      <div class="player-controls">
+        <button class="btn" id="prevAct"><span class="material-icons">chevron_left</span> Précédent</button>
+        <button class="btn primary" id="checkAct"><span class="material-icons">check</span> Vérifier</button>
+        <button class="btn" id="nextAct">Suivant <span class="material-icons">chevron_right</span></button>
+      </div>
+    </section>
+  </main>
+
+  <footer class="app-footer">
+    <span>© 2025 Apprendre le Français pour Homeschool (K–12)</span>
+    <a href="https://github.com/" target="_blank" rel="noopener">GitHub Pages Ready</a>
+  </footer>
+
+  <script src="storage.js"></script>
+  <script src="activities.js"></script>
+  <script src="app.js"></script>
+</body>
+</html>

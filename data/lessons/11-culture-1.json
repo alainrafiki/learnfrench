@@ -1,0 +1,24 @@
+{
+  "id": "11-culture-1",
+  "title": "Culture francophone",
+  "activities": [
+    {
+      "type": "flashcards",
+      "cards": [
+        {
+          "fr": "Québec",
+          "en": "Quebec"
+        },
+        {
+          "fr": "Sénégal",
+          "en": "Senegal"
+        }
+      ]
+    },
+    {
+      "type": "fill",
+      "prompt": "La capitale de la France est ____ .",
+      "answer": "Paris"
+    }
+  ]
+}

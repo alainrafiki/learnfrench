@@ -1,0 +1,45 @@
+{
+  "id": "4-body-1",
+  "title": "Le corps",
+  "activities": [
+    {
+      "type": "flashcards",
+      "cards": [
+        {
+          "fr": "tête",
+          "en": "head"
+        },
+        {
+          "fr": "main",
+          "en": "hand"
+        },
+        {
+          "fr": "pied",
+          "en": "foot"
+        }
+      ]
+    },
+    {
+      "type": "match",
+      "pairs": [
+        {
+          "left": "tête",
+          "right": "head"
+        },
+        {
+          "left": "main",
+          "right": "hand"
+        }
+      ]
+    },
+    {
+      "type": "fill",
+      "prompt": "Complète: la ____ (head)",
+      "answer": "tête"
+    },
+    {
+      "type": "build",
+      "target": "pied"
+    }
+  ]
+}

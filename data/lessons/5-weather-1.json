@@ -1,0 +1,45 @@
+{
+  "id": "5-weather-1",
+  "title": "Météo",
+  "activities": [
+    {
+      "type": "flashcards",
+      "cards": [
+        {
+          "fr": "il pleut",
+          "en": "it’s raining"
+        },
+        {
+          "fr": "il neige",
+          "en": "it’s snowing"
+        },
+        {
+          "fr": "il fait chaud",
+          "en": "it’s hot"
+        }
+      ]
+    },
+    {
+      "type": "match",
+      "pairs": [
+        {
+          "left": "il pleut",
+          "right": "it’s raining"
+        },
+        {
+          "left": "il fait chaud",
+          "right": "it’s hot"
+        }
+      ]
+    },
+    {
+      "type": "fill",
+      "prompt": "Aujourd’hui, __ ____ froid.",
+      "answer": "il fait"
+    },
+    {
+      "type": "build",
+      "target": "neige"
+    }
+  ]
+}

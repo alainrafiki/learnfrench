@@ -1,0 +1,24 @@
+{
+  "id": "7-sports-1",
+  "title": "Les sports",
+  "activities": [
+    {
+      "type": "match",
+      "pairs": [
+        {
+          "left": "le football",
+          "right": "soccer"
+        },
+        {
+          "left": "le basket",
+          "right": "basketball"
+        }
+      ]
+    },
+    {
+      "type": "fill",
+      "prompt": "Je joue __ tennis.",
+      "answer": "au"
+    }
+  ]
+}

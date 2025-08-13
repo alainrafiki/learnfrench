@@ -1,0 +1,20 @@
+{
+  "id": "9-past-2",
+  "title": "Imparfait vs Passé Composé",
+  "activities": [
+    {
+      "type": "mcq",
+      "prompt": "Je (lisais / ai lu) quand tu as appelé.",
+      "options": [
+        "lisais",
+        "ai lu"
+      ],
+      "answer": 0
+    },
+    {
+      "type": "fill",
+      "prompt": "Il ____ (pleuvoir, imparfait)",
+      "answer": "pleuvait"
+    }
+  ]
+}

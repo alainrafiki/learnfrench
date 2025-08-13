@@ -1,0 +1,34 @@
+{
+  "id": "8-future-1",
+  "title": "Futur Proche",
+  "activities": [
+    {
+      "type": "flashcards",
+      "cards": [
+        {
+          "fr": "je vais manger",
+          "en": "I am going to eat"
+        },
+        {
+          "fr": "nous allons partir",
+          "en": "we are going to leave"
+        }
+      ]
+    },
+    {
+      "type": "fill",
+      "prompt": "Demain, ils ____ (aller) étudier.",
+      "answer": "vont"
+    },
+    {
+      "type": "mcq",
+      "prompt": "Structure du futur proche",
+      "options": [
+        "être + infinitif",
+        "aller + infinitif",
+        "avoir + participe"
+      ],
+      "answer": 1
+    }
+  ]
+}

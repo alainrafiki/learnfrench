@@ -1,0 +1,15 @@
+{
+  "id": "12-oral-1",
+  "title": "Expression orale",
+  "activities": [
+    {
+      "type": "speak",
+      "phrase": "Aujourd’hui, je vais présenter mon sujet préféré."
+    },
+    {
+      "type": "fill",
+      "prompt": "Thèse: Écris une phrase d’ouverture.",
+      "answer": "réponse libre"
+    }
+  ]
+}

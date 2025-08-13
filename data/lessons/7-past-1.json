@@ -1,0 +1,34 @@
+{
+  "id": "7-past-1",
+  "title": "Passé Composé (avec avoir)",
+  "activities": [
+    {
+      "type": "flashcards",
+      "cards": [
+        {
+          "fr": "j’ai parlé",
+          "en": "I spoke"
+        },
+        {
+          "fr": "tu as fini",
+          "en": "you finished"
+        }
+      ]
+    },
+    {
+      "type": "fill",
+      "prompt": "Hier, il ____ (manger)",
+      "answer": "a mangé"
+    },
+    {
+      "type": "mcq",
+      "prompt": "Participe passé de “prendre”",
+      "options": [
+        "prendu",
+        "pris",
+        "prenné"
+      ],
+      "answer": 1
+    }
+  ]
+}

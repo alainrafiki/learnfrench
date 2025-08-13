@@ -1,0 +1,71 @@
+{
+  "id": "K-basics-2",
+  "title": "Les nombres 1–10",
+  "activities": [
+    {
+      "type": "flashcards",
+      "cards": [
+        {
+          "fr": "un",
+          "en": "one"
+        },
+        {
+          "fr": "deux",
+          "en": "two"
+        },
+        {
+          "fr": "trois",
+          "en": "three"
+        },
+        {
+          "fr": "quatre",
+          "en": "four"
+        },
+        {
+          "fr": "cinq",
+          "en": "five"
+        }
+      ]
+    },
+    {
+      "type": "mcq",
+      "prompt": "Quel est le nombre après trois ?",
+      "options": [
+        "deux",
+        "quatre",
+        "cinq"
+      ],
+      "answer": 1
+    },
+    {
+      "type": "match",
+      "pairs": [
+        {
+          "left": "un",
+          "right": "one"
+        },
+        {
+          "left": "deux",
+          "right": "two"
+        },
+        {
+          "left": "cinq",
+          "right": "five"
+        }
+      ]
+    },
+    {
+      "type": "fill",
+      "prompt": "Écris en toutes lettres: 4",
+      "answer": "quatre"
+    },
+    {
+      "type": "build",
+      "target": "trois"
+    },
+    {
+      "type": "speak",
+      "phrase": "J’ai cinq ans."
+    }
+  ]
+}
