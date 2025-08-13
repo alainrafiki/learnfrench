@@ -17,5 +17,12 @@
       "sentence": "Demain, il ___ travailler.",
       "answer": "va"
     }
+    ,
+    {
+      "type": "mcq",
+      "prompt": "Quelle est la structure du futur proche ?",
+      "options": ["être + infinitif", "aller + infinitif", "avoir + participe"],
+      "answer": 1
+    }
   ]
 }

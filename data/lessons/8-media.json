@@ -17,5 +17,14 @@
       "sentence": "J'écoute les informations à la ___.",
       "answer": "radio"
     }
+    ,
+    {
+      "type": "flashcards",
+      "cards": [
+        {"fr": "journal", "en": "newspaper"},
+        {"fr": "télévision", "en": "television"},
+        {"fr": "radio", "en": "radio"}
+      ]
+    }
   ]
 }

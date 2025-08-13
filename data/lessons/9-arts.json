@@ -17,5 +17,12 @@
       "sentence": "J'aime écouter de la ___.",
       "answer": "musique"
     }
+    ,
+    {
+      "type": "mcq",
+      "prompt": "Quel art signifie 'Painting' ?",
+      "options": ["Peinture", "Musique", "Danse"],
+      "answer": 0
+    }
   ]
 }

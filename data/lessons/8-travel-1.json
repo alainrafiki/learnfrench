@@ -20,5 +20,12 @@
       "prompt": "Où est __ porte d’embarquement ?",
       "answer": "la"
     }
+    ,
+    {
+      "type": "mcq",
+      "prompt": "Quel document est nécessaire pour voyager à l'étranger ?",
+      "options": ["billet", "passeport", "valise"],
+      "answer": 1
+    }
   ]
 }

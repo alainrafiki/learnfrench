@@ -17,5 +17,12 @@
       "sentence": "Hier, je ___ un film (ai regardé).",
       "answer": "ai regardé"
     }
+    ,
+    {
+      "type": "mcq",
+      "prompt": "Quel temps exprime une action habituelle dans le passé ?",
+      "options": ["imparfait", "passé composé", "futur"],
+      "answer": 0
+    }
   ]
 }

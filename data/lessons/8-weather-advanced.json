@@ -17,5 +17,14 @@
       "sentence": "En été, il fait souvent ___.",
       "answer": "chaud"
     }
+    ,
+    {
+      "type": "flashcards",
+      "cards": [
+        {"fr": "il va pleuvoir", "en": "it will rain"},
+        {"fr": "il fera chaud", "en": "it will be hot"},
+        {"fr": "il y aura du vent", "en": "it will be windy"}
+      ]
+    }
   ]
 }

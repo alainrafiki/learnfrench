@@ -17,5 +17,12 @@
       "sentence": "Je pense, donc je suis est une phrase de ___.",
       "answer": "Descartes"
     }
+    ,
+    {
+      "type": "mcq",
+      "prompt": "Qui a écrit 'Du contrat social' ?",
+      "options": ["Descartes", "Rousseau", "Sartre"],
+      "answer": 1
+    }
   ]
 }
