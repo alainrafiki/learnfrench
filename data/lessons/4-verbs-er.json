@@ -5,16 +5,15 @@
     {
       "type": "match",
       "prompt": "Associez les verbes en -er avec leur traduction.",
-      "items": [
+      "pairs": [
         {"left": "Parler", "right": "To speak"},
         {"left": "Aimer", "right": "To love"},
         {"left": "Jouer", "right": "To play"}
       ]
     },
     {
-      "type": "fill-in-the-blank",
-      "prompt": "Complétez avec le bon verbe en -er.",
-      "sentence": "J'___ le français à l'école.",
+      "type": "fill",
+      "prompt": "J'___ le français à l'école.",
       "answer": "apprends"
     }
     ,

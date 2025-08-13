@@ -5,16 +5,15 @@
     {
       "type": "match",
       "prompt": "Associez les repas/boissons avec leur nom en français.",
-      "items": [
+      "pairs": [
         {"left": "Breakfast", "right": "Petit déjeuner"},
         {"left": "Lunch", "right": "Déjeuner"},
         {"left": "Water", "right": "Eau"}
       ]
     },
     {
-      "type": "fill-in-the-blank",
-      "prompt": "Complétez avec le bon repas.",
-      "sentence": "Le matin, je prends le ___.",
+      "type": "fill",
+      "prompt": "Le matin, je prends le ___.",
       "answer": "petit déjeuner"
     }
     ,

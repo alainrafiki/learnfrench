@@ -5,16 +5,15 @@
     {
       "type": "match",
       "prompt": "Associez les mots de météo avec leur traduction.",
-      "items": [
+      "pairs": [
         {"left": "Rain", "right": "Pluie"},
         {"left": "Snow", "right": "Neige"},
         {"left": "Sun", "right": "Soleil"}
       ]
     },
     {
-      "type": "fill-in-the-blank",
-      "prompt": "Complétez avec le bon mot de météo.",
-      "sentence": "Quand il fait chaud, il y a du ___.",
+      "type": "fill",
+      "prompt": "Quand il fait chaud, il y a du ___.",
       "answer": "soleil"
     }
     ,

@@ -5,16 +5,15 @@
     {
       "type": "match",
       "prompt": "Associez les moyens de transport avec leur traduction.",
-      "items": [
+      "pairs": [
         {"left": "Train", "right": "Train"},
         {"left": "Plane", "right": "Avion"},
         {"left": "Boat", "right": "Bateau"}
       ]
     },
     {
-      "type": "fill-in-the-blank",
-      "prompt": "Complétez avec le bon moyen de transport.",
-      "sentence": "Pour aller à Paris, je prends l'___.",
+      "type": "fill",
+      "prompt": "Pour aller à Paris, je prends l'___.",
       "answer": "avion"
     },
     {

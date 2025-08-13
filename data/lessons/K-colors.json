@@ -5,16 +5,15 @@
     {
       "type": "match",
       "prompt": "Associez les mots avec les images de couleurs.",
-      "items": [
+      "pairs": [
         {"left": "Rouge", "right": "Red"},
         {"left": "Bleu", "right": "Blue"},
         {"left": "Vert", "right": "Green"}
       ]
     },
     {
-      "type": "fill-in-the-blank",
+      "type": "fill",
       "prompt": "Complétez avec la bonne couleur.",
-      "sentence": "Le soleil est ___.",
       "answer": "jaune"
     },
     {

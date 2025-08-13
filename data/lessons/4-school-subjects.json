@@ -5,16 +5,15 @@
     {
       "type": "match",
       "prompt": "Associez les matières avec leur traduction.",
-      "items": [
+      "pairs": [
         {"left": "Mathématiques", "right": "Mathematics"},
         {"left": "Français", "right": "French"},
         {"left": "Sciences", "right": "Science"}
       ]
     },
     {
-      "type": "fill-in-the-blank",
-      "prompt": "Complétez avec la bonne matière.",
-      "sentence": "J'aime beaucoup la matière ___.",
+      "type": "fill",
+      "prompt": "J'aime beaucoup la matière ___.",
       "answer": "français"
     }
     ,

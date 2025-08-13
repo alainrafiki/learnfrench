@@ -5,16 +5,15 @@
     {
       "type": "match",
       "prompt": "Associez les adjectifs avec leur traduction.",
-      "items": [
+      "pairs": [
         {"left": "Grand", "right": "Tall"},
         {"left": "Petit", "right": "Small"},
         {"left": "Beau", "right": "Beautiful"}
       ]
     },
     {
-      "type": "fill-in-the-blank",
-      "prompt": "Complétez avec le bon adjectif.",
-      "sentence": "La maison est très ___.",
+      "type": "fill",
+      "prompt": "La maison est très ___.",
       "answer": "grande"
     }
     ,

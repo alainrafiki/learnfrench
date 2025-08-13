@@ -5,16 +5,15 @@
     {
       "type": "match",
       "prompt": "Associez les membres de la famille avec leur nom en français.",
-      "items": [
+      "pairs": [
         {"left": "Mother", "right": "Maman"},
         {"left": "Father", "right": "Papa"},
         {"left": "Brother", "right": "Frère"}
       ]
     },
     {
-      "type": "fill-in-the-blank",
-      "prompt": "Complétez avec le bon membre de la famille.",
-      "sentence": "La sœur de mon père est ma ___.",
+      "type": "fill",
+      "prompt": "La sœur de mon père est ma ___.",
       "answer": "tante"
     }
     ,

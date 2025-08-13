@@ -5,16 +5,15 @@
     {
       "type": "match",
       "prompt": "Associez les objets de classe avec leur nom en français.",
-      "items": [
+      "pairs": [
         {"left": "Book", "right": "Livre"},
         {"left": "Pencil", "right": "Crayon"},
         {"left": "Desk", "right": "Bureau"}
       ]
     },
     {
-      "type": "fill-in-the-blank",
-      "prompt": "Complétez avec l’objet de classe.",
-      "sentence": "J’écris avec un ___.",
+      "type": "fill",
+      "prompt": "J’écris avec un ___.",
       "answer": "crayon"
     }
     ,

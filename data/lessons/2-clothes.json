@@ -5,16 +5,15 @@
     {
       "type": "match",
       "prompt": "Associez les vêtements avec leur nom en français.",
-      "items": [
+      "pairs": [
         {"left": "Shirt", "right": "Chemise"},
         {"left": "Pants", "right": "Pantalon"},
         {"left": "Dress", "right": "Robe"}
       ]
     },
     {
-      "type": "fill-in-the-blank",
-      "prompt": "Complétez avec le bon vêtement.",
-      "sentence": "En été, je porte une ___.",
+      "type": "fill",
+      "prompt": "En été, je porte une ___.",
       "answer": "robe"
     }
     ,

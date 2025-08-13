@@ -5,16 +5,15 @@
     {
       "type": "match",
       "prompt": "Associez les parties du corps avec leur nom en français.",
-      "items": [
+      "pairs": [
         {"left": "Head", "right": "Tête"},
         {"left": "Arm", "right": "Bras"},
         {"left": "Leg", "right": "Jambe"}
       ]
     },
     {
-      "type": "fill-in-the-blank",
-      "prompt": "Complétez avec la bonne partie du corps.",
-      "sentence": "On marche avec les ___.",
+      "type": "fill",
+      "prompt": "On marche avec les ___.",
       "answer": "jambes"
     }
     ,

@@ -5,16 +5,15 @@
     {
       "type": "match",
       "prompt": "Associez les heures avec leur écriture en français.",
-      "items": [
+      "pairs": [
         {"left": "8:00", "right": "Huit heures"},
         {"left": "12:00", "right": "Midi"},
         {"left": "18:00", "right": "Six heures du soir"}
       ]
     },
     {
-      "type": "fill-in-the-blank",
-      "prompt": "Complétez avec l'heure correcte.",
-      "sentence": "Il est ___ heures du matin.",
+      "type": "fill",
+      "prompt": "Il est ___ heures du matin.",
       "answer": "huit"
     }
     ,

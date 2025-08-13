@@ -5,7 +5,7 @@
         {
             "type": "match",
             "prompt": "Associez les aliments avec leur nom en français.",
-            "items": [
+            "pairs": [
                 {
                     "left": "Apple",
                     "right": "Pomme"
@@ -21,9 +21,8 @@
             ]
         },
         {
-            "type": "fill-in-the-blank",
-            "prompt": "Complétez avec le bon aliment.",
-            "sentence": "La ___ est jaune et longue (banane).",
+            "type": "fill",
+            "prompt": "La ___ est jaune et longue (banane).",
             "answer": "banane"
         }
             ,

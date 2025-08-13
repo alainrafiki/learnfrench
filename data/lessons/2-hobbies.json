@@ -5,16 +5,15 @@
     {
       "type": "match",
       "prompt": "Associez les loisirs avec leur nom en français.",
-      "items": [
+      "pairs": [
         {"left": "Soccer", "right": "Football"},
         {"left": "Reading", "right": "Lecture"},
         {"left": "Music", "right": "Musique"}
       ]
     },
     {
-      "type": "fill-in-the-blank",
-      "prompt": "Complétez avec le bon loisir.",
-      "sentence": "J’aime jouer au ___.",
+      "type": "fill",
+      "prompt": "J’aime jouer au ___.",
       "answer": "football"
     }
     ,
