@@ -17,5 +17,12 @@
       "sentence": "___ est un film de Jean-Pierre Jeunet.",
       "answer": "Amélie"
     }
+    ,
+    {
+      "type": "mcq",
+      "prompt": "Quel film a été réalisé par Olivier Nakache & Éric Toledano ?",
+      "options": ["Intouchables", "La Haine", "Amélie"],
+      "answer": 0
+    }
   ]
 }

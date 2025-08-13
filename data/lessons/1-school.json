@@ -17,5 +17,12 @@
       "sentence": "J’écris avec un ___.",
       "answer": "crayon"
     }
+    ,
+    {
+      "type": "mcq",
+      "prompt": "Quel objet utilise-t-on pour lire ?",
+      "options": ["crayon", "livre", "bureau"],
+      "answer": 1
+    }
   ]
 }

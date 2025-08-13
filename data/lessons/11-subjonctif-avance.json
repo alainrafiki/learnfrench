@@ -17,5 +17,12 @@
       "sentence": "Il faut que nous ___ (être) à l'heure.",
       "answer": "soyons"
     }
+    ,
+    {
+      "type": "mcq",
+      "prompt": "Quelle est la forme subjonctive de 'être' pour 'nous' ?",
+      "options": ["sommes", "soyons", "sois"],
+      "answer": 1
+    }
   ]
 }

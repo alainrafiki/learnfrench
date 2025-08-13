@@ -17,5 +17,12 @@
       "sentence": "La capitale du Sénégal est ___.",
       "answer": "Dakar"
     }
+    ,
+    {
+      "type": "mcq",
+      "prompt": "Quelle est la capitale du Canada ?",
+      "options": ["Paris", "Ottawa", "Dakar"],
+      "answer": 1
+    }
   ]
 }

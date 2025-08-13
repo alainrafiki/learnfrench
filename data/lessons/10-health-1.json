@@ -20,5 +20,12 @@
       "prompt": "J’ai mal __ tête.",
       "answer": "à la"
     }
+    ,
+    {
+      "type": "mcq",
+      "prompt": "Quel mot signifie 'fever' en français ?",
+      "options": ["fièvre", "ordonnance", "maladie"],
+      "answer": 0
+    }
   ]
 }

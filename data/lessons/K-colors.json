@@ -16,6 +16,20 @@
       "prompt": "Complétez avec la bonne couleur.",
       "sentence": "Le soleil est ___.",
       "answer": "jaune"
+    },
+    {
+      "type": "mcq",
+      "prompt": "Quelle couleur obtient-on en mélangeant bleu et jaune ?",
+      "options": ["vert", "rouge", "noir"],
+      "answer": 0
+    },
+    {
+      "type": "flashcards",
+      "cards": [
+        {"fr": "jaune", "en": "yellow"},
+        {"fr": "noir", "en": "black"},
+        {"fr": "blanc", "en": "white"}
+      ]
     }
   ]
 }

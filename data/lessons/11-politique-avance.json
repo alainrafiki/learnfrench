@@ -17,5 +17,12 @@
       "sentence": "La ___ est un droit fondamental.",
       "answer": "liberté"
     }
+    ,
+    {
+      "type": "mcq",
+      "prompt": "Quel mot signifie 'Equality' en français ?",
+      "options": ["Liberté", "Égalité", "Démocratie"],
+      "answer": 1
+    }
   ]
 }

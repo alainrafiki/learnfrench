@@ -26,5 +26,14 @@
             "sentence": "La ___ est jaune et longue (banane).",
             "answer": "banane"
         }
+            ,
+            {
+                "type": "flashcards",
+                "cards": [
+                    {"fr": "banane", "en": "banana"},
+                    {"fr": "pomme", "en": "apple"},
+                    {"fr": "fromage", "en": "cheese"}
+                ]
+            }
     ]
 }

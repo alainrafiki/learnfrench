@@ -17,5 +17,12 @@
       "sentence": "La ___ est importante pour apprendre.",
       "answer": "mémoire"
     }
+    ,
+    {
+      "type": "mcq",
+      "prompt": "Quel mot signifie 'Emotion' en français ?",
+      "options": ["Mémoire", "Émotion", "Motivation"],
+      "answer": 1
+    }
   ]
 }

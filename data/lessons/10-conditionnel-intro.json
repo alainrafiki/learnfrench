@@ -17,5 +17,12 @@
       "sentence": "Si j'avais le temps, je ___ (voyager).",
       "answer": "voyagerais"
     }
+    ,
+    {
+      "type": "mcq",
+      "prompt": "Quelle est la terminaison du conditionnel pour 'je' ?",
+      "options": ["-ais", "-ait", "-ons"],
+      "answer": 0
+    }
   ]
 }

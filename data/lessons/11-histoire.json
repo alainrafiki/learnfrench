@@ -17,5 +17,12 @@
       "sentence": "La ___ a commencé en 1789.",
       "answer": "Révolution française"
     }
+    ,
+    {
+      "type": "mcq",
+      "prompt": "En quelle année a eu lieu le Débarquement en Normandie ?",
+      "options": ["1789", "1944", "1968"],
+      "answer": 1
+    }
   ]
 }

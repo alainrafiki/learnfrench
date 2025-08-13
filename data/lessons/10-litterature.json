@@ -17,5 +17,12 @@
       "sentence": "Les Misérables est un roman de ___.",
       "answer": "Victor Hugo"
     }
+    ,
+    {
+      "type": "mcq",
+      "prompt": "Qui a écrit 'L'Étranger' ?",
+      "options": ["Victor Hugo", "Camus", "Molière"],
+      "answer": 1
+    }
   ]
 }

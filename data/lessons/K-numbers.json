@@ -15,6 +15,20 @@
       "prompt": "Complétez avec le nombre.",
       "sentence": "Il y a ___ pommes.",
       "answer": "trois"
+    },
+    {
+      "type": "mcq",
+      "prompt": "Quel nombre vient après six ?",
+      "options": ["cinq", "sept", "dix"],
+      "answer": 1
+    },
+    {
+      "type": "flashcards",
+      "cards": [
+        {"fr": "un", "en": "one"},
+        {"fr": "deux", "en": "two"},
+        {"fr": "dix", "en": "ten"}
+      ]
     }
   ]
 }

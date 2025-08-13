@@ -17,5 +17,12 @@
       "sentence": "La sœur de mon père est ma ___.",
       "answer": "tante"
     }
+    ,
+    {
+      "type": "mcq",
+      "prompt": "Qui est le fils de ma tante ?",
+      "options": ["mon cousin", "ma sœur", "mon oncle"],
+      "answer": 0
+    }
   ]
 }

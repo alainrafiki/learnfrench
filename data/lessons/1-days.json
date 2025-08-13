@@ -17,5 +17,12 @@
       "sentence": "Le premier jour de la semaine est ___.",
       "answer": "lundi"
     }
+    ,
+    {
+      "type": "mcq",
+      "prompt": "Quel jour vient après mardi ?",
+      "options": ["lundi", "mercredi", "jeudi"],
+      "answer": 1
+    }
   ]
 }

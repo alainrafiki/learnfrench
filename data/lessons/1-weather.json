@@ -17,5 +17,14 @@
       "sentence": "Quand il fait chaud, il y a du ___.",
       "answer": "soleil"
     }
+    ,
+    {
+      "type": "flashcards",
+      "cards": [
+        {"fr": "pluie", "en": "rain"},
+        {"fr": "neige", "en": "snow"},
+        {"fr": "soleil", "en": "sun"}
+      ]
+    }
   ]
 }

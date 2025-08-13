@@ -17,5 +17,14 @@
       "sentence": "La ___ étudie les êtres vivants.",
       "answer": "biologie"
     }
+    ,
+    {
+      "type": "flashcards",
+      "cards": [
+        {"fr": "biologie", "en": "biology"},
+        {"fr": "chimie", "en": "chemistry"},
+        {"fr": "physique", "en": "physics"}
+      ]
+    }
   ]
 }
