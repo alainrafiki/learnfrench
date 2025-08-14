@@ -5,7 +5,7 @@
     {
       "type": "match",
       "prompt": "Associez les concepts politiques avec leur traduction.",
-      "items": [
+      "pairs": [
         {"left": "Démocratie", "right": "Democracy"},
         {"left": "Liberté", "right": "Freedom"},
         {"left": "Égalité", "right": "Equality"}

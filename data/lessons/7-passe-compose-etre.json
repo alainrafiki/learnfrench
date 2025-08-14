@@ -5,14 +5,14 @@
     {
       "type": "match",
       "prompt": "Associez les verbes conjugués avec être à leur traduction.",
-      "items": [
+      "pairs": [
         {"left": "Je suis allé(e)", "right": "I went"},
         {"left": "Nous sommes venus", "right": "We came"},
         {"left": "Elle est arrivée", "right": "She arrived"}
       ]
     },
     {
-      "type": "fill-in-the-blank",
+      "type": "fill",
       "prompt": "Complétez avec le verbe au passé composé.",
       "sentence": "Marie ___ à l'école ce matin.",
       "answer": "est allée"

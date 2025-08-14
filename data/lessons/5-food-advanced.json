@@ -5,14 +5,14 @@
     {
       "type": "match",
       "prompt": "Associez les plats français avec leur traduction.",
-      "items": [
+      "pairs": [
         {"left": "Baguette", "right": "Baguette"},
         {"left": "Cheese", "right": "Fromage"},
         {"left": "Soup", "right": "Soupe"}
       ]
     },
     {
-      "type": "fill-in-the-blank",
+      "type": "fill",
       "prompt": "Complétez avec le bon plat.",
       "sentence": "La ___ est un pain français.",
       "answer": "baguette"

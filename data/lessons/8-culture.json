@@ -5,14 +5,14 @@
     {
       "type": "match",
       "prompt": "Associez les fêtes françaises avec leur date.",
-      "items": [
+      "pairs": [
         {"left": "La Fête Nationale", "right": "14 juillet"},
         {"left": "Noël", "right": "25 décembre"},
         {"left": "Pâques", "right": "Date variable"}
       ]
     },
     {
-      "type": "fill-in-the-blank",
+      "type": "fill",
       "prompt": "Complétez avec la fête.",
       "sentence": "Le 25 décembre, c'est ___.",
       "answer": "Noël"

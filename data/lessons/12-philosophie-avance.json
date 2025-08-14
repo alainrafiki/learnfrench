@@ -5,7 +5,7 @@
     {
       "type": "match",
       "prompt": "Associez les théories philosophiques avec leur auteur.",
-      "items": [
+      "pairs": [
         {"left": "Existentialisme", "right": "Sartre"},
         {"left": "Absurdism", "right": "Camus"},
         {"left": "Structuralisme", "right": "Lévi-Strauss"}

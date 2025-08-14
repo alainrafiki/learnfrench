@@ -5,14 +5,14 @@
     {
       "type": "match",
       "prompt": "Associez les auteurs avec leur œuvre.",
-      "items": [
+      "pairs": [
         {"left": "Victor Hugo", "right": "Les Misérables"},
         {"left": "Molière", "right": "Le Misanthrope"},
         {"left": "Camus", "right": "L'Étranger"}
       ]
     },
     {
-      "type": "fill-in-the-blank",
+      "type": "fill",
       "prompt": "Complétez avec l'auteur.",
       "sentence": "Les Misérables est un roman de ___.",
       "answer": "Victor Hugo"
