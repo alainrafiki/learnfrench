@@ -5,14 +5,14 @@
     {
       "type": "match",
       "prompt": "Associez les phrases complexes au subjonctif avec leur traduction.",
-      "items": [
+      "pairs": [
         {"left": "Bien qu'il soit tard", "right": "Although it is late"},
         {"left": "Pour que tu réussisses", "right": "So that you succeed"},
         {"left": "Avant qu'il parte", "right": "Before he leaves"}
       ]
     },
     {
-      "type": "fill-in-the-blank",
+      "type": "fill",
       "prompt": "Complétez avec le verbe au subjonctif.",
       "sentence": "Il faut que nous ___ (être) à l'heure.",
       "answer": "soyons"

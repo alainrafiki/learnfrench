@@ -5,7 +5,7 @@
     {
       "type": "match",
       "prompt": "Associez les adverbes avec leur traduction.",
-      "items": [
+      "pairs": [
         {"left": "Souvent", "right": "Often"},
         {"left": "Toujours", "right": "Always"},
         {"left": "Jamais", "right": "Never"}

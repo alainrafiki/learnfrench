@@ -5,14 +5,14 @@
     {
       "type": "match",
       "prompt": "Associez les philosophes avec leur œuvre.",
-      "items": [
+      "pairs": [
         {"left": "Descartes", "right": "Discours de la méthode"},
         {"left": "Rousseau", "right": "Du contrat social"},
         {"left": "Sartre", "right": "L'Être et le Néant"}
       ]
     },
     {
-      "type": "fill-in-the-blank",
+      "type": "fill",
       "prompt": "Complétez avec le philosophe.",
       "sentence": "Je pense, donc je suis est une phrase de ___.",
       "answer": "Descartes"

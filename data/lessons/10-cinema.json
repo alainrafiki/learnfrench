@@ -5,14 +5,14 @@
     {
       "type": "match",
       "prompt": "Associez les films avec leur réalisateur.",
-      "items": [
+      "pairs": [
         {"left": "Amélie", "right": "Jean-Pierre Jeunet"},
         {"left": "La Haine", "right": "Mathieu Kassovitz"},
         {"left": "Intouchables", "right": "Olivier Nakache & Éric Toledano"}
       ]
     },
     {
-      "type": "fill-in-the-blank",
+      "type": "fill",
       "prompt": "Complétez avec le film.",
       "sentence": "___ est un film de Jean-Pierre Jeunet.",
       "answer": "Amélie"

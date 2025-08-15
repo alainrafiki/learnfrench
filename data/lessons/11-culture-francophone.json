@@ -5,14 +5,14 @@
     {
       "type": "match",
       "prompt": "Associez les pays francophones avec leur capitale.",
-      "items": [
+      "pairs": [
         {"left": "France", "right": "Paris"},
         {"left": "Sénégal", "right": "Dakar"},
         {"left": "Canada", "right": "Ottawa"}
       ]
     },
     {
-      "type": "fill-in-the-blank",
+      "type": "fill",
       "prompt": "Complétez avec le pays.",
       "sentence": "La capitale du Sénégal est ___.",
       "answer": "Dakar"

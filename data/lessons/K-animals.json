@@ -5,14 +5,14 @@
     {
       "type": "match",
       "prompt": "Associez les animaux avec leur nom en français.",
-      "items": [
+      "pairs": [
         {"left": "Cat", "right": "Chat"},
         {"left": "Dog", "right": "Chien"},
         {"left": "Rabbit", "right": "Lapin"}
       ]
     },
     {
-      "type": "fill-in-the-blank",
+      "type": "fill",
       "prompt": "Complétez avec le bon animal.",
       "sentence": "Le ___ aime les carottes.",
       "answer": "lapin"

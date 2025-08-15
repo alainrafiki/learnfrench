@@ -5,14 +5,14 @@
     {
       "type": "match",
       "prompt": "Associez les loisirs avec leur traduction.",
-      "items": [
+      "pairs": [
         {"left": "Music", "right": "Musique"},
         {"left": "Sport", "right": "Sport"},
         {"left": "Reading", "right": "Lecture"}
       ]
     },
     {
-      "type": "fill-in-the-blank",
+      "type": "fill",
       "prompt": "Complétez avec le bon loisir.",
       "sentence": "Ma passion est la ___.",
       "answer": "musique"

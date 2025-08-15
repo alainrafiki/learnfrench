@@ -5,13 +5,13 @@
     {
       "type": "match",
       "prompt": "Associez les verbes avec leur traduction.",
-      "items": [
+      "pairs": [
         {"left": "Être", "right": "To be"},
         {"left": "Avoir", "right": "To have"}
       ]
     },
     {
-      "type": "fill-in-the-blank",
+      "type": "fill",
       "prompt": "Complétez avec le bon verbe.",
       "sentence": "Je ___ un livre.",
       "answer": "ai"

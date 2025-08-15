@@ -5,14 +5,14 @@
     {
       "type": "match",
       "prompt": "Associez les sports avec leur traduction.",
-      "items": [
+      "pairs": [
         {"left": "Football", "right": "Soccer"},
         {"left": "Basketball", "right": "Basket-ball"},
         {"left": "Natation", "right": "Swimming"}
       ]
     },
     {
-      "type": "fill-in-the-blank",
+      "type": "fill",
       "prompt": "Complétez avec le bon sport.",
       "sentence": "Je joue au ___.",
       "answer": "football"

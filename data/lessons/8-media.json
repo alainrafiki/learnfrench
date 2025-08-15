@@ -5,14 +5,14 @@
     {
       "type": "match",
       "prompt": "Associez les types de médias avec leur traduction.",
-      "items": [
+      "pairs": [
         {"left": "Journal", "right": "Newspaper"},
         {"left": "Télévision", "right": "Television"},
         {"left": "Radio", "right": "Radio"}
       ]
     },
     {
-      "type": "fill-in-the-blank",
+      "type": "fill",
       "prompt": "Complétez avec le bon média.",
       "sentence": "J'écoute les informations à la ___.",
       "answer": "radio"

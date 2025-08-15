@@ -5,7 +5,7 @@
     {
       "type": "match",
       "prompt": "Associez les mots de l'écologie avec leur traduction.",
-      "items": [
+      "pairs": [
         {"left": "Recycler", "right": "To recycle"},
         {"left": "Protéger", "right": "To protect"},
         {"left": "Planète", "right": "Planet"}

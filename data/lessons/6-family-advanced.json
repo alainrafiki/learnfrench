@@ -5,7 +5,7 @@
     {
       "type": "match",
       "prompt": "Associez les membres de la famille avec leur description.",
-      "items": [
+      "pairs": [
         {"left": "Oncle", "right": "Frère de ma mère"},
         {"left": "Cousine", "right": "Fille de ma tante"},
         {"left": "Grand-mère", "right": "Mère de mon père"}
